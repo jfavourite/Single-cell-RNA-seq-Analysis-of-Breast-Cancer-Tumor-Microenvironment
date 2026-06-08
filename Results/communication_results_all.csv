@@ -1,0 +1,1441 @@
+"sender","receiver","ligand","receptor","score"
+"B-cells","CAFs","HLA-DRA","CD63",1015.75258471414
+"B-cells","CAFs","HLA-DRA","CD81",170.165148602573
+"B-cells","CAFs","B2M","TAP1",74.3070991941857
+"B-cells","CAFs","HLA-DRA","CD9",68.36530604071
+"B-cells","CAFs","HLA-DRB1","CD81",64.2204352219163
+"B-cells","CAFs","HLA-A","APLP2",25.7748105404729
+"B-cells","CAFs","HLA-DRA","CD82",20.1038049634071
+"B-cells","CAFs","CD99","CD99",19.7268728918959
+"B-cells","CAFs","HLA-DMA","CD74",18.5069198218704
+"B-cells","CAFs","B2M","TAP2",18.0331471766894
+"B-cells","CAFs","IFITM1","CD81",16.4756089094407
+"B-cells","CAFs","LTB","TNFRSF1A",13.8947773059685
+"B-cells","CAFs","CALR","LRP1",12.450865990234
+"B-cells","CAFs","HMGB1","SDC1",10.7810268353961
+"B-cells","CAFs","LGALS1","ITGB1",10.3224122249705
+"B-cells","CAFs","MIF","CD74",10.2323703647159
+"B-cells","CAFs","HLA-DMB","CD74",9.33009024842185
+"B-cells","CAFs","TIMP1","CD63",7.96248038038051
+"B-cells","CAFs","LTB","LTBR",7.73199243105484
+"B-cells","CAFs","PSAP","LRP1",7.72845771311537
+"B-cells","Cancer Epithelial","HLA-DRA","CD9",370.0890075229
+"B-cells","Cancer Epithelial","HLA-DRA","CD63",266.313342058889
+"B-cells","Cancer Epithelial","B2M","TAP1",72.8541488296585
+"B-cells","Cancer Epithelial","HLA-DRA","CD82",59.9788115890832
+"B-cells","Cancer Epithelial","HLA-A","APLP2",38.2266984528916
+"B-cells","Cancer Epithelial","HLA-A","ERBB2",28.6169745384291
+"B-cells","Cancer Epithelial","HLA-DRA","CD81",24.863097804358
+"B-cells","Cancer Epithelial","HLA-DRB1","CD82",22.6360416100268
+"B-cells","Cancer Epithelial","HLA-DMA","CD74",19.7270135944318
+"B-cells","Cancer Epithelial","MIF","CD74",10.9069532494258
+"B-cells","Cancer Epithelial","B2M","TAP2",10.5796575116014
+"B-cells","Cancer Epithelial","HLA-DMB","CD74",9.94518909356207
+"B-cells","Cancer Epithelial","HLA-DRB1","CD81",9.38334891176885
+"B-cells","Cancer Epithelial","CD44","EPCAM",8.46138150794257
+"B-cells","Cancer Epithelial","IL16","CD9",7.81610130721969
+"B-cells","Cancer Epithelial","CD44","CLDN7",7.08301683434483
+"B-cells","Cancer Epithelial","HMGB1","SDC1",6.8991923202418
+"B-cells","Cancer Epithelial","LTB","LTBR",6.44511004681956
+"B-cells","Cancer Epithelial","MIF","CD44",5.19047389335378
+"B-cells","Cancer Epithelial","LTB","TNFRSF1A",4.99914660374149
+"B-cells","Endothelial","HLA-DRA","CD63",422.805956985251
+"B-cells","Endothelial","HLA-DMA","CD74",396.145194917543
+"B-cells","Endothelial","HLA-DRA","CD9",249.457794527748
+"B-cells","Endothelial","MIF","CD74",219.026417773133
+"B-cells","Endothelial","HLA-DMB","CD74",199.712888780743
+"B-cells","Endothelial","HLA-DRA","CD81",164.662383779973
+"B-cells","Endothelial","B2M","TAP1",149.353695938688
+"B-cells","Endothelial","HLA-DRB1","CD81",62.1436882808806
+"B-cells","Endothelial","HLA-A","APLP2",51.2326993029881
+"B-cells","Endothelial","B2M","TAP2",47.5651990701751
+"B-cells","Endothelial","COPA","CD74",39.4580901097659
+"B-cells","Endothelial","APP","CD74",30.9790028303754
+"B-cells","Endothelial","HMGB1","THBD",19.4985647322573
+"B-cells","Endothelial","LTB","TNFRSF1A",18.2998446417686
+"B-cells","Endothelial","IFITM1","CD81",15.9428241301699
+"B-cells","Endothelial","CCL5","ACKR1",11.9807225239534
+"B-cells","Endothelial","CD99","CD99",9.45833255303396
+"B-cells","Endothelial","TGFB1","ENG",8.77936801677107
+"B-cells","Endothelial","LTB","CD40",8.66388112310999
+"B-cells","Endothelial","LTB","LTBR",8.19768938695734
+"B-cells","Myeloid","HLA-DMA","CD74",1013.55268908488
+"B-cells","Myeloid","MIF","CD74",560.38749822725
+"B-cells","Myeloid","HLA-DRA","CD63",555.457069312227
+"B-cells","Myeloid","HLA-DMB","CD74",510.97309285997
+"B-cells","Myeloid","HLA-DRA","CD37",172.470544503308
+"B-cells","Myeloid","RPS19","C5AR1",167.386785757191
+"B-cells","Myeloid","HLA-DRA","CD81",153.959374106531
+"B-cells","Myeloid","B2M","TAP1",148.27605181067
+"B-cells","Myeloid","HLA-DRA","CD9",145.063938811986
+"B-cells","Myeloid","HLA-DRA","CD53",137.707063029234
+"B-cells","Myeloid","HLA-DRA","CD4",106.837928792702
+"B-cells","Myeloid","B2M","LILRB1",106.551952172453
+"B-cells","Myeloid","COPA","CD74",100.955038329397
+"B-cells","Myeloid","APP","CD74",79.2609680156057
+"B-cells","Myeloid","HLA-DRB1","CD37",65.0904930999237
+"B-cells","Myeloid","HLA-A","APLP2",60.3220687199101
+"B-cells","Myeloid","HLA-DRB1","CD81",58.1043656284016
+"B-cells","Myeloid","HLA-DRB1","CD53",51.9707330995482
+"B-cells","Myeloid","HLA-B","LILRB2",48.0942633312898
+"B-cells","Myeloid","HLA-DPB1","CD4",44.5596415602685
+"B-cells","Normal Epithelial","HLA-DRA","CD9",356.73346573236
+"B-cells","Normal Epithelial","HLA-DRA","CD63",289.209273916377
+"B-cells","Normal Epithelial","B2M","TAP1",59.7301939269084
+"B-cells","Normal Epithelial","HLA-DMA","CD74",56.3894607220378
+"B-cells","Normal Epithelial","HLA-DRA","CD82",53.7095695554651
+"B-cells","Normal Epithelial","HLA-A","APLP2",38.2865185466591
+"B-cells","Normal Epithelial","HLA-DRA","CD81",33.9143837248418
+"B-cells","Normal Epithelial","MIF","CD74",31.1774110618141
+"B-cells","Normal Epithelial","HLA-DMB","CD74",28.4282183453734
+"B-cells","Normal Epithelial","CALM1","MYLK",27.5051607421569
+"B-cells","Normal Epithelial","CALM2","MYLK",24.9888145048254
+"B-cells","Normal Epithelial","HLA-DRB1","CD82",20.2700256824598
+"B-cells","Normal Epithelial","HLA-DRB1","CD81",12.7993099702172
+"B-cells","Normal Epithelial","HLA-A","ERBB2",9.51244980279793
+"B-cells","Normal Epithelial","IL16","CD9",7.53403870734306
+"B-cells","Normal Epithelial","CD44","CLDN7",6.95330935508793
+"B-cells","Normal Epithelial","LTB","LTBR",6.91883832356725
+"B-cells","Normal Epithelial","B2M","TAP2",6.88920444071805
+"B-cells","Normal Epithelial","LTB","TNFRSF1A",6.54589354288043
+"B-cells","Normal Epithelial","COPA","CD74",5.61667906352973
+"B-cells","Plasmablasts","HLA-DRA","CD63",109.138874007056
+"B-cells","Plasmablasts","HLA-DMA","CD74",96.8037409810641
+"B-cells","Plasmablasts","B2M","TAP1",78.5546307979036
+"B-cells","Plasmablasts","MIF","CD74",53.5222360037308
+"B-cells","Plasmablasts","HLA-DMB","CD74",48.8026991218087
+"B-cells","Plasmablasts","HLA-DRA","CD37",33.3502069374696
+"B-cells","Plasmablasts","HLA-DRA","CD9",21.0364350913769
+"B-cells","Plasmablasts","HLA-DRA","CD53",16.2170619116762
+"B-cells","Plasmablasts","B2M","LILRB1",14.4150946934153
+"B-cells","Plasmablasts","HLA-DRB1","CD37",12.5863892921308
+"B-cells","Plasmablasts","HLA-DRA","LAG3",9.96834961959156
+"B-cells","Plasmablasts","COPA","CD74",9.64214834257506
+"B-cells","Plasmablasts","HMGB1","SDC1",8.6797460096599
+"B-cells","Plasmablasts","HLA-DRA","CD19",8.56534289655219
+"B-cells","Plasmablasts","HLA-DRA","CD81",8.36780861272642
+"B-cells","Plasmablasts","HMGB1","CXCR4",8.33201000358499
+"B-cells","Plasmablasts","APP","CD74",7.57016216356612
+"B-cells","Plasmablasts","B2M","TAP2",6.55150692721659
+"B-cells","Plasmablasts","HLA-DRB1","CD53",6.1203294713478
+"B-cells","Plasmablasts","HLA-DRA","CD82",6.01011792947951
+"B-cells","PVL","HLA-DRA","CD63",663.908194500253
+"B-cells","PVL","HLA-DRA","CD81",167.628813341903
+"B-cells","PVL","HLA-DRA","CD9",158.50980454881
+"B-cells","PVL","B2M","TAP1",71.7463829735853
+"B-cells","PVL","HLA-DRB1","CD81",63.2632206827078
+"B-cells","PVL","HLA-A","APLP2",29.951250166191
+"B-cells","PVL","CALM1","MYLK",26.9781706400688
+"B-cells","PVL","HLA-DRA","CD82",25.430498053026
+"B-cells","PVL","CALM2","MYLK",24.5100367936021
+"B-cells","PVL","B2M","TAP2",23.5058338867932
+"B-cells","PVL","IFITM1","CD81",16.2300376619719
+"B-cells","PVL","HLA-DRA","CD4",13.6630668492706
+"B-cells","PVL","LGALS1","ITGB1",12.8268343403973
+"B-cells","PVL","LTB","TNFRSF1A",12.6703020832151
+"B-cells","PVL","HLA-DMA","CD74",12.2314278481629
+"B-cells","PVL","HLA-DRB1","CD82",9.59748612619687
+"B-cells","PVL","CD99","CD99",7.26922940930764
+"B-cells","PVL","MIF","CD74",6.76268666187225
+"B-cells","PVL","HLA-DMB","CD74",6.1663597610424
+"B-cells","PVL","LTB","LTBR",6.12698961502971
+"B-cells","T-cells","HLA-DRA","CD37",251.534086711914
+"B-cells","T-cells","B2M","KLRD1",217.799270595631
+"B-cells","T-cells","B2M","TAP1",197.358168926235
+"B-cells","T-cells","HMGB1","CXCR4",164.252640419323
+"B-cells","T-cells","HLA-DRA","CD53",150.919760963849
+"B-cells","T-cells","HLA-B","CD8A",125.417544561792
+"B-cells","T-cells","B2M","KLRC1",109.913117566596
+"B-cells","T-cells","HLA-DRA","CD63",102.594899186205
+"B-cells","T-cells","HLA-DRB1","CD37",94.9291241740324
+"B-cells","T-cells","HLA-DRA","CD82",85.0941458532961
+"B-cells","T-cells","HLA-DMA","CD74",81.9447743816329
+"B-cells","T-cells","HLA-A","CD8A",70.9569388996154
+"B-cells","T-cells","HLA-B","KLRD1",69.1929265485466
+"B-cells","T-cells","HLA-DRA","LAG3",62.4319124325934
+"B-cells","T-cells","MIF","CXCR4",62.1470956446599
+"B-cells","T-cells","HLA-DRB1","CD53",56.957213696691
+"B-cells","T-cells","HLA-E","CD8A",50.8519756864259
+"B-cells","T-cells","MIF","CD74",45.3067981596306
+"B-cells","T-cells","HLA-DMB","CD74",41.311690315084
+"B-cells","T-cells","HLA-A","KLRD1",39.1469812181805
+"CAFs","B-cells","MIF","CD74",842.558104250031
+"CAFs","B-cells","LGALS1","CD69",499.645498194559
+"CAFs","B-cells","APP","CD74",399.781756267907
+"CAFs","B-cells","CXCL14","CXCR4",310.937222539853
+"CAFs","B-cells","COL1A1","CD44",235.435732645428
+"CAFs","B-cells","COL1A2","CD44",177.551151619067
+"CAFs","B-cells","CXCL12","CXCR4",176.836814032847
+"CAFs","B-cells","LGALS1","PTPRC",133.193699228991
+"CAFs","B-cells","HMGB1","CXCR4",127.397879205737
+"CAFs","B-cells","COPA","CD74",122.25924715586
+"CAFs","B-cells","B2M","TAP1",121.462743817368
+"CAFs","B-cells","MIF","CXCR4",98.6922919670316
+"CAFs","B-cells","COL1A1","ITGB1",77.3879762481166
+"CAFs","B-cells","FN1","CD44",66.1088124017769
+"CAFs","B-cells","COL1A2","ITGB1",58.3612527713258
+"CAFs","B-cells","COL3A1","ITGB1",50.1341889972813
+"CAFs","B-cells","LUM","ITGB1",45.4857525497816
+"CAFs","B-cells","MXRA5","CD69",44.9628607556557
+"CAFs","B-cells","TIMP1","CD63",34.4545368170193
+"CAFs","B-cells","OGN","HLA-DRB1",32.7399198438757
+"CAFs","Cancer Epithelial","TIMP1","CD63",191.964798301918
+"CAFs","Cancer Epithelial","COL1A1","CD44",169.341923237367
+"CAFs","Cancer Epithelial","COL1A1","ITGB1",129.410227889749
+"CAFs","Cancer Epithelial","COL1A2","CD44",127.707264952272
+"CAFs","Cancer Epithelial","COL1A2","ITGB1",97.5932358904695
+"CAFs","Cancer Epithelial","COL1A1","SDC1",85.1655990953235
+"CAFs","Cancer Epithelial","COL3A1","ITGB1",83.8357214873389
+"CAFs","Cancer Epithelial","LUM","ITGB1",76.0624826824723
+"CAFs","Cancer Epithelial","COL1A1","DDR1",61.6656044368796
+"CAFs","Cancer Epithelial","LGALS3","ANXA2",61.4175104324655
+"CAFs","Cancer Epithelial","B2M","TAP1",57.5371075749352
+"CAFs","Cancer Epithelial","LGALS1","ITGB1",48.6399885291139
+"CAFs","Cancer Epithelial","FN1","CD44",47.5501034157594
+"CAFs","Cancer Epithelial","COL1A2","DDR1",46.5044067866409
+"CAFs","Cancer Epithelial","COL3A1","DDR1",39.948777799256
+"CAFs","Cancer Epithelial","FN1","ITGB1",36.3375447826302
+"CAFs","Cancer Epithelial","COL1A1","ITGAV",29.6983647407151
+"CAFs","Cancer Epithelial","COL6A2","ITGB1",24.817006502086
+"CAFs","Cancer Epithelial","HLA-A","APLP2",24.1052971095008
+"CAFs","Cancer Epithelial","FN1","SDC1",23.9139426730814
+"CAFs","Endothelial","MIF","CD74",410.388416812161
+"CAFs","Endothelial","SPARC","ENG",369.938994268672
+"CAFs","Endothelial","COL1A1","ITGB1",337.551075355591
+"CAFs","Endothelial","COL1A1","CD93",326.715959006764
+"CAFs","Endothelial","COL1A1","CD36",325.859721406526
+"CAFs","Endothelial","TIMP1","CD63",304.768283954679
+"CAFs","Endothelial","COL1A2","ITGB1",254.56026358539
+"CAFs","Endothelial","COL1A2","CD93",246.389085132381
+"CAFs","Endothelial","COL1A2","CD36",245.743363387964
+"CAFs","Endothelial","COL3A1","ITGB1",218.67543549473
+"CAFs","Endothelial","LUM","ITGB1",198.399873351265
+"CAFs","Endothelial","APP","CD74",194.723427615961
+"CAFs","Endothelial","COL1A1","ITGA5",139.110147672991
+"CAFs","Endothelial","LGALS1","ITGB1",126.871582725855
+"CAFs","Endothelial","CCL2","ACKR1",125.553165682421
+"CAFs","Endothelial","B2M","TAP1",117.953195637914
+"CAFs","Endothelial","FN1","ITGB1",94.7821321171664
+"CAFs","Endothelial","DCN","KDR",87.0054773749927
+"CAFs","Endothelial","CXCL10","ACKR1",84.8305583721702
+"CAFs","Endothelial","MMP2","PECAM1",82.1606890428106
+"CAFs","Myeloid","MIF","CD74",1049.99451909504
+"CAFs","Myeloid","APP","CD74",498.207364926043
+"CAFs","Myeloid","TIMP1","CD63",400.386264734411
+"CAFs","Myeloid","COL1A1","CD44",334.833394201604
+"CAFs","Myeloid","COL1A2","CD44",252.510755580798
+"CAFs","Myeloid","FN1","PLAUR",207.640819130439
+"CAFs","Myeloid","COPA","CD74",152.359272048784
+"CAFs","Myeloid","COL1A1","CD93",121.408271570668
+"CAFs","Myeloid","B2M","TAP1",117.102118147925
+"CAFs","Myeloid","COL1A1","ITGB1",112.301709445428
+"CAFs","Myeloid","LGALS1","PTPRC",98.5035238889209
+"CAFs","Myeloid","FN1","CD44",94.0190250409463
+"CAFs","Myeloid","COL1A2","CD93",91.558652508864
+"CAFs","Myeloid","TIMP1","MMP9",86.7454196726014
+"CAFs","Myeloid","DCN","LRP1",84.7216097944952
+"CAFs","Myeloid","COL1A2","ITGB1",84.6910433551507
+"CAFs","Myeloid","B2M","LILRB1",84.1501991712243
+"CAFs","Myeloid","OGN","HLA-DRB1",79.4102751923166
+"CAFs","Myeloid","RPS19","C5AR1",77.8343742740903
+"CAFs","Myeloid","COL3A1","ITGB1",72.752324056179
+"CAFs","Normal Epithelial","TIMP1","CD63",208.468713978757
+"CAFs","Normal Epithelial","COL1A1","ITGB1",162.49861631887
+"CAFs","Normal Epithelial","COL1A2","ITGB1",122.546463698319
+"CAFs","Normal Epithelial","COL1A1","CD44",111.312613799273
+"CAFs","Normal Epithelial","COL3A1","ITGB1",105.271344946498
+"CAFs","Normal Epithelial","LUM","ITGB1",95.5105975101899
+"CAFs","Normal Epithelial","COL1A2","CD44",83.9451282425082
+"CAFs","Normal Epithelial","COL1A1","DDR1",71.6446794994143
+"CAFs","Normal Epithelial","LGALS1","ITGB1",61.0765544782169
+"CAFs","Normal Epithelial","MIF","CD74",58.4169183610204
+"CAFs","Normal Epithelial","LGALS3","ANXA2",54.6881121770503
+"CAFs","Normal Epithelial","COL1A2","DDR1",54.0300115431394
+"CAFs","Normal Epithelial","B2M","TAP1",47.1723662777213
+"CAFs","Normal Epithelial","COL3A1","DDR1",46.4135137887224
+"CAFs","Normal Epithelial","FN1","ITGB1",45.6285476340632
+"CAFs","Normal Epithelial","COL1A1","SDC1",45.176465020276
+"CAFs","Normal Epithelial","COL1A1","ITGA2",44.1964569924825
+"CAFs","Normal Epithelial","APOE","APP",40.0326674490583
+"CAFs","Normal Epithelial","CALM2","MYLK",39.7826708296544
+"CAFs","Normal Epithelial","COL1A1","ITGB8",37.8513482269067
+"CAFs","Plasmablasts","COL1A1","SDC1",107.145262024239
+"CAFs","Plasmablasts","MIF","CD74",100.284275847351
+"CAFs","Plasmablasts","TIMP1","CD63",78.6698171923742
+"CAFs","Plasmablasts","COL1A1","CD44",74.3914777943018
+"CAFs","Plasmablasts","B2M","TAP1",62.0391057384547
+"CAFs","Plasmablasts","COL1A2","CD44",56.1014779048622
+"CAFs","Plasmablasts","APP","CD74",47.583452965532
+"CAFs","Plasmablasts","COL1A1","ITGB1",35.8884039065815
+"CAFs","Plasmablasts","FN1","SDC1",30.0856881294532
+"CAFs","Plasmablasts","COL1A2","ITGB1",27.064827296119
+"CAFs","Plasmablasts","COL3A1","ITGB1",23.249555182768
+"CAFs","Plasmablasts","LUM","ITGB1",21.0938590029495
+"CAFs","Plasmablasts","FN1","CD44",20.8886399466005
+"CAFs","Plasmablasts","CXCL14","CXCR4",18.6099983414113
+"CAFs","Plasmablasts","COPA","CD74",14.5517324025754
+"CAFs","Plasmablasts","LGALS1","ITGB1",13.4889767432564
+"CAFs","Plasmablasts","B2M","LILRB1",11.3844285795879
+"CAFs","Plasmablasts","LGALS1","CD69",10.7860458685294
+"CAFs","Plasmablasts","CXCL12","CXCR4",10.5839139777803
+"CAFs","Plasmablasts","LGALS1","PTPRC",10.5722223172335
+"CAFs","PVL","COL1A1","ITGB1",572.003508783419
+"CAFs","PVL","TIMP1","CD63",478.560336718127
+"CAFs","PVL","COL1A2","ITGB1",431.369871401784
+"CAFs","PVL","COL3A1","ITGB1",370.56056259326
+"CAFs","PVL","LUM","ITGB1",336.202228298515
+"CAFs","PVL","LGALS1","ITGB1",214.992621213383
+"CAFs","PVL","COL1A1","CD44",175.421364824173
+"CAFs","PVL","COL1A1","CD36",170.897492694809
+"CAFs","PVL","FN1","ITGB1",160.614840535998
+"CAFs","PVL","COL1A1","ITGA1",156.582766400214
+"CAFs","PVL","COL1A2","CD44",132.292005946385
+"CAFs","PVL","COL1A2","CD36",128.880379778509
+"CAFs","PVL","COL1A2","ITGA1",118.085093480381
+"CAFs","PVL","COL6A2","ITGB1",109.693144260498
+"CAFs","PVL","COL3A1","ITGA1",101.438884759782
+"CAFs","PVL","COL6A3","ITGB1",84.0800096312108
+"CAFs","PVL","COL6A1","ITGB1",81.6656109576453
+"CAFs","PVL","COL1A1","DDR2",72.9130555320899
+"CAFs","PVL","FN1","SDC2",60.3538282032845
+"CAFs","PVL","COL1A1","ITGAV",60.1707266683824
+"CAFs","T-cells","LGALS1","CD69",480.414325603328
+"CAFs","T-cells","COL1A1","CD44",424.985342135305
+"CAFs","T-cells","CXCL14","CXCR4",366.867222250192
+"CAFs","T-cells","COL1A2","CD44",320.497810886617
+"CAFs","T-cells","LGALS1","PTPRC",289.484700163908
+"CAFs","T-cells","CXCL12","CXCR4",208.645430823224
+"CAFs","T-cells","B2M","KLRD1",172.008598869276
+"CAFs","T-cells","COL1A1","ITGB1",159.725342689834
+"CAFs","T-cells","B2M","TAP1",155.865086322693
+"CAFs","T-cells","HMGB1","CXCR4",150.313641071982
+"CAFs","T-cells","COL1A2","ITGB1",120.455031267663
+"CAFs","T-cells","FN1","CD44",119.333101823758
+"CAFs","T-cells","MIF","CXCR4",116.444620929259
+"CAFs","T-cells","COL3A1","ITGB1",103.474737372559
+"CAFs","T-cells","LUM","ITGB1",93.8805711913895
+"CAFs","T-cells","B2M","KLRC1",86.8047046176081
+"CAFs","T-cells","MIF","CD74",84.8910618024988
+"CAFs","T-cells","TIMP1","CD63",73.9527692335087
+"CAFs","T-cells","LGALS1","ITGB1",60.0341948463392
+"CAFs","T-cells","HLA-B","CD8A",53.6304100710829
+"Cancer Epithelial","B-cells","MIF","CD74",2791.53279855568
+"Cancer Epithelial","B-cells","APP","CD74",359.546666137882
+"Cancer Epithelial","B-cells","MIF","CXCR4",326.983704270258
+"Cancer Epithelial","B-cells","S100A8","CD69",276.411838748372
+"Cancer Epithelial","B-cells","HMGB1","CXCR4",167.877020155299
+"Cancer Epithelial","B-cells","COPA","CD74",127.044216034202
+"Cancer Epithelial","B-cells","LGALS1","CD69",81.9787721379971
+"Cancer Epithelial","B-cells","HLA-DMA","CD74",61.9319966137714
+"Cancer Epithelial","B-cells","ZG16B","CXCR4",44.9133615504989
+"Cancer Epithelial","B-cells","MIF","CD44",44.7977672833856
+"Cancer Epithelial","B-cells","B2M","TAP1",44.363941101467
+"Cancer Epithelial","B-cells","HLA-DRA","CD37",36.684071697353
+"Cancer Epithelial","B-cells","CXCL14","CXCR4",25.9500571510753
+"Cancer Epithelial","B-cells","HLA-DRB1","CD37",23.7444929649954
+"Cancer Epithelial","B-cells","LGALS1","PTPRC",21.8536061242737
+"Cancer Epithelial","B-cells","CD82","CD37",19.1288431876513
+"Cancer Epithelial","B-cells","S100A8","ITGB2",19.0561210453964
+"Cancer Epithelial","B-cells","S100A9","ITGB2",16.9461156441236
+"Cancer Epithelial","B-cells","HLA-DMB","CD74",13.2753220212459
+"Cancer Epithelial","B-cells","B2M","LILRB1",11.4652028643662
+"Cancer Epithelial","CAFs","MIF","CD74",63.521057544792
+"Cancer Epithelial","CAFs","TIMP1","CD63",60.0228858482213
+"Cancer Epithelial","CAFs","LGALS3","ANXA2",43.3133725706174
+"Cancer Epithelial","CAFs","HLA-DRA","CD63",38.6937827166229
+"Cancer Epithelial","CAFs","TIMP1","MMP2",30.7700522540671
+"Cancer Epithelial","CAFs","LGALS1","ITGB1",28.3873399049804
+"Cancer Epithelial","CAFs","MIF","CD44",26.6498979658788
+"Cancer Epithelial","CAFs","MDK","ITGB1",23.3022681080576
+"Cancer Epithelial","CAFs","CD99","CD99",23.1393477996407
+"Cancer Epithelial","CAFs","CALR","LRP1",23.1172893135119
+"Cancer Epithelial","CAFs","B2M","TAP1",21.4343874796681
+"Cancer Epithelial","CAFs","MDK","LRP1",19.5603075688445
+"Cancer Epithelial","CAFs","HSP90B1","LRP1",18.7445246278258
+"Cancer Epithelial","CAFs","AZGP1","ITGAV",16.4868740275761
+"Cancer Epithelial","CAFs","HMGB1","SDC1",13.0009538213401
+"Cancer Epithelial","CAFs","PSAP","LRP1",12.2705300697218
+"Cancer Epithelial","CAFs","TIMP3","MMP2",11.8903499041028
+"Cancer Epithelial","CAFs","S100A8","CD68",11.0259640874605
+"Cancer Epithelial","CAFs","S100A9","CD68",9.80510472561244
+"Cancer Epithelial","CAFs","MIF","EGFR",9.66474709952714
+"Cancer Epithelial","Endothelial","MIF","CD74",1359.68394333849
+"Cancer Epithelial","Endothelial","APP","CD74",175.12594839706
+"Cancer Epithelial","Endothelial","CD24","SELP",85.4933767324278
+"Cancer Epithelial","Endothelial","S100A8","CD36",67.7563815468062
+"Cancer Epithelial","Endothelial","COPA","CD74",61.8799753042863
+"Cancer Epithelial","Endothelial","S100A9","CD36",60.2539978930772
+"Cancer Epithelial","Endothelial","LGALS3","ENG",45.247473091094
+"Cancer Epithelial","Endothelial","B2M","TAP1",43.082088050624
+"Cancer Epithelial","Endothelial","LGALS3","ANXA2",42.2280014338025
+"Cancer Epithelial","Endothelial","CXCL13","ACKR1",30.1728340255074
+"Cancer Epithelial","Endothelial","HLA-DMA","CD74",30.1654852195208
+"Cancer Epithelial","Endothelial","TIMP1","CD63",24.984463809379
+"Cancer Epithelial","Endothelial","CD9","CD36",24.3309255269796
+"Cancer Epithelial","Endothelial","HMGB1","THBD",23.5135245962102
+"Cancer Epithelial","Endothelial","LGALS1","ITGB1",20.8163119825006
+"Cancer Epithelial","Endothelial","HLA-A","APLP2",17.1675239577257
+"Cancer Epithelial","Endothelial","MDK","ITGB1",17.0874511123918
+"Cancer Epithelial","Endothelial","CTSD","APP",16.266449568889
+"Cancer Epithelial","Endothelial","HLA-DRA","CD63",16.1062468135242
+"Cancer Epithelial","Endothelial","CXCL2","ACKR1",13.8967874635626
+"Cancer Epithelial","Myeloid","MIF","CD74",3478.80356686674
+"Cancer Epithelial","Myeloid","APP","CD74",448.066462003477
+"Cancer Epithelial","Myeloid","S100A8","CD68",239.741283548175
+"Cancer Epithelial","Myeloid","S100A9","CD68",213.195723620755
+"Cancer Epithelial","Myeloid","COPA","CD74",158.322292368636
+"Cancer Epithelial","Myeloid","RPS19","C5AR1",126.497660411842
+"Cancer Epithelial","Myeloid","S100A8","ITGB2",103.210879066752
+"Cancer Epithelial","Myeloid","S100A9","ITGB2",91.7827656651753
+"Cancer Epithelial","Myeloid","HLA-DMA","CD74",77.1795519775512
+"Cancer Epithelial","Myeloid","MIF","CXCR4",74.7425672361809
+"Cancer Epithelial","Myeloid","MIF","CD44",63.7107558126685
+"Cancer Epithelial","Myeloid","B2M","TAP1",42.7712342822007
+"Cancer Epithelial","Myeloid","HMGB1","CXCR4",38.3736538014028
+"Cancer Epithelial","Myeloid","LGALS3","ANXA2",35.0967498565134
+"Cancer Epithelial","Myeloid","PIP","CD4",34.0023011743889
+"Cancer Epithelial","Myeloid","TIMP1","CD63",32.8230877938627
+"Cancer Epithelial","Myeloid","B2M","LILRB1",30.7356343383961
+"Cancer Epithelial","Myeloid","HLA-DRA","CD63",21.1594195986496
+"Cancer Epithelial","Myeloid","HLA-A","APLP2",20.2132734370339
+"Cancer Epithelial","Myeloid","HMGB1","CD163",18.3939306546736
+"Cancer Epithelial","Normal Epithelial","MIF","CD74",193.544804533677
+"Cancer Epithelial","Normal Epithelial","CALM2","MYLK",44.4936186806621
+"Cancer Epithelial","Normal Epithelial","LGALS3","ANXA2",33.030977929119
+"Cancer Epithelial","Normal Epithelial","APP","CD74",24.9283795821408
+"Cancer Epithelial","Normal Epithelial","MIF","CD44",21.1801178718911
+"Cancer Epithelial","Normal Epithelial","CALM1","MYLK",20.4038056735393
+"Cancer Epithelial","Normal Epithelial","B2M","TAP1",17.2295801444131
+"Cancer Epithelial","Normal Epithelial","TIMP1","CD63",17.0899641268596
+"Cancer Epithelial","Normal Epithelial","HLA-DRA","CD9",13.589300601859
+"Cancer Epithelial","Normal Epithelial","HLA-A","APLP2",12.8293986721357
+"Cancer Epithelial","Normal Epithelial","ANXA2","PLAT",12.1850093890894
+"Cancer Epithelial","Normal Epithelial","CTSD","APP",12.1599348848587
+"Cancer Epithelial","Normal Epithelial","HLA-DRA","CD63",11.0170537323337
+"Cancer Epithelial","Normal Epithelial","S100A9","ALCAM",10.4161965429391
+"Cancer Epithelial","Normal Epithelial","MDK","SDC4",10.2172721808741
+"Cancer Epithelial","Normal Epithelial","LGALS1","ITGB1",10.0210668576744
+"Cancer Epithelial","Normal Epithelial","COPA","CD74",8.80833210062798
+"Cancer Epithelial","Normal Epithelial","EPCAM","CLDN7",8.6359698944759
+"Cancer Epithelial","Normal Epithelial","MDK","ITGB1",8.22597634818647
+"Cancer Epithelial","Normal Epithelial","AZGP1","ITGAV",7.1431434767138
+"Cancer Epithelial","Plasmablasts","MIF","CD74",332.258207232447
+"Cancer Epithelial","Plasmablasts","APP","CD74",42.7945287869033
+"Cancer Epithelial","Plasmablasts","B2M","TAP1",22.6596168213263
+"Cancer Epithelial","Plasmablasts","MIF","CXCR4",19.5704012032786
+"Cancer Epithelial","Plasmablasts","COPA","CD74",15.1212564941438
+"Cancer Epithelial","Plasmablasts","MIF","CD44",14.1549121395061
+"Cancer Epithelial","Plasmablasts","HMGB1","SDC1",10.4669971400181
+"Cancer Epithelial","Plasmablasts","HMGB1","CXCR4",10.0476586274606
+"Cancer Epithelial","Plasmablasts","HLA-DMA","CD74",7.37136750672043
+"Cancer Epithelial","Plasmablasts","TIMP1","CD63",6.44923800806523
+"Cancer Epithelial","Plasmablasts","S100A8","CD69",5.96701217586788
+"Cancer Epithelial","Plasmablasts","S100A8","CD68",5.5649842139959
+"Cancer Epithelial","Plasmablasts","MDK","SDC1",5.42388859177805
+"Cancer Epithelial","Plasmablasts","S100A9","CD68",4.94879654801936
+"Cancer Epithelial","Plasmablasts","B2M","LILRB1",4.15813197615643
+"Cancer Epithelial","Plasmablasts","HLA-DRA","CD63",4.15750443593935
+"Cancer Epithelial","Plasmablasts","CALR","TAP1",3.76169497184864
+"Cancer Epithelial","Plasmablasts","LGALS3","ANXA2",3.49824808988607
+"Cancer Epithelial","Plasmablasts","S100A8","ITGB2",3.42899576899444
+"Cancer Epithelial","Plasmablasts","S100A9","ITGB2",3.04931726169047
+"Cancer Epithelial","PVL","CALM2","MYLK",43.6411351460049
+"Cancer Epithelial","PVL","MIF","CD74",41.9817689640588
+"Cancer Epithelial","PVL","TIMP1","CD63",39.231685325617
+"Cancer Epithelial","PVL","S100A8","CD36",35.5349095323632
+"Cancer Epithelial","PVL","LGALS1","ITGB1",35.2746720814838
+"Cancer Epithelial","PVL","MIF","CD44",33.3784739878983
+"Cancer Epithelial","PVL","S100A9","CD36",31.6002760952429
+"Cancer Epithelial","PVL","MDK","ITGB1",28.9558609231412
+"Cancer Epithelial","PVL","HLA-DRA","CD63",25.2907251316596
+"Cancer Epithelial","PVL","LGALS3","MCAM",24.4066354779124
+"Cancer Epithelial","PVL","B2M","TAP1",20.6957314926488
+"Cancer Epithelial","PVL","CALM1","MYLK",20.012875268308
+"Cancer Epithelial","PVL","LGALS3","ANXA2",17.9399886661654
+"Cancer Epithelial","PVL","CD9","CD36",12.7603809073337
+"Cancer Epithelial","PVL","LGALS3BP","ITGB1",11.9970751759224
+"Cancer Epithelial","PVL","AZGP1","ITGAV",11.38411384254
+"Cancer Epithelial","PVL","MDK","SDC2",10.8806698671272
+"Cancer Epithelial","PVL","HLA-A","APLP2",10.0363403019433
+"Cancer Epithelial","PVL","NAMPT","ITGB1",9.87034936681574
+"Cancer Epithelial","PVL","ADAM15","ITGB1",8.7098040993993
+"Cancer Epithelial","T-cells","MIF","CXCR4",385.800073490181
+"Cancer Epithelial","T-cells","MIF","CD74",281.257971563667
+"Cancer Epithelial","T-cells","S100A8","CD69",265.772848111135
+"Cancer Epithelial","T-cells","HMGB1","CXCR4",198.073989215365
+"Cancer Epithelial","T-cells","MIF","CD44",80.8645070223885
+"Cancer Epithelial","T-cells","LGALS1","CD69",78.8234391639188
+"Cancer Epithelial","T-cells","B2M","KLRD1",62.825678964213
+"Cancer Epithelial","T-cells","B2M","TAP1",56.929304345307
+"Cancer Epithelial","T-cells","ZG16B","CXCR4",52.9921765537037
+"Cancer Epithelial","T-cells","LGALS1","PTPRC",47.4968760009371
+"Cancer Epithelial","T-cells","S100A8","ITGB2",43.0679318216637
+"Cancer Epithelial","T-cells","S100A9","ITGB2",38.2991980091068
+"Cancer Epithelial","T-cells","APP","CD74",36.2257488261436
+"Cancer Epithelial","T-cells","B2M","KLRC1",31.7051853264255
+"Cancer Epithelial","T-cells","CXCL14","CXCR4",30.6178376023428
+"Cancer Epithelial","T-cells","HLA-B","CD8A",26.874380949283
+"Cancer Epithelial","T-cells","HLA-A","CD8A",23.7769035225318
+"Cancer Epithelial","T-cells","CD59","CD2",22.3314092899196
+"Cancer Epithelial","T-cells","HLA-B","KLRD1",14.8266103722452
+"Cancer Epithelial","T-cells","HLA-A","KLRD1",13.1177304159056
+"Endothelial","B-cells","APP","CD74",924.68424971496
+"Endothelial","B-cells","MIF","CD74",755.58024320523
+"Endothelial","B-cells","HLA-DMA","CD74",475.418983017401
+"Endothelial","B-cells","HLA-DRA","CD37",295.259925567149
+"Endothelial","B-cells","HLA-DRB1","CD37",278.434385072089
+"Endothelial","B-cells","B2M","TAP1",180.947131073781
+"Endothelial","B-cells","HMGB1","CXCR4",158.837663982055
+"Endothelial","B-cells","HLA-DMB","CD74",96.4504068503958
+"Endothelial","B-cells","COPA","CD74",89.1209071043673
+"Endothelial","B-cells","MIF","CXCR4",88.5042177990878
+"Endothelial","B-cells","HLA-DRA","CD53",63.730592991104
+"Endothelial","B-cells","LGALS1","CD69",60.3633398925774
+"Endothelial","B-cells","HLA-DRB1","CD53",60.0988719876991
+"Endothelial","B-cells","CXCL12","CXCR4",52.8107219929777
+"Endothelial","B-cells","B2M","LILRB1",46.7631034118687
+"Endothelial","B-cells","HLA-DRA","CD19",31.5844055662243
+"Endothelial","B-cells","HLA-DRA","CD82",31.2689108126488
+"Endothelial","B-cells","HLA-DRB1","CD19",29.7845517802895
+"Endothelial","B-cells","HLA-DRB1","CD82",29.4870356594121
+"Endothelial","B-cells","B2M","TAP2",23.9667202013563
+"Endothelial","CAFs","HLA-DRA","CD63",311.435532540567
+"Endothelial","CAFs","A2M","MMP2",113.351891963139
+"Endothelial","CAFs","B2M","TAP1",87.4243997371429
+"Endothelial","CAFs","TIMP1","CD63",83.6758292022583
+"Endothelial","CAFs","IFITM1","CD81",63.7813741507913
+"Endothelial","CAFs","CD99","CD99",55.5035726988716
+"Endothelial","CAFs","HLA-DRA","CD81",52.1736045493809
+"Endothelial","CAFs","A2M","LRP1",51.2415853997396
+"Endothelial","CAFs","HLA-DRB1","CD81",49.2004645459327
+"Endothelial","CAFs","LGALS3","ANXA2",48.7343953139256
+"Endothelial","CAFs","TIMP3","MMP2",46.7780599233318
+"Endothelial","CAFs","TIMP1","MMP2",42.8954656306678
+"Endothelial","CAFs","HSPG2","ITGB1",41.1287176583373
+"Endothelial","CAFs","HLA-A","APLP2",38.3041348964634
+"Endothelial","CAFs","HSPG2","LRP1",34.5241228698704
+"Endothelial","CAFs","COL4A1","ITGB1",27.2328411137382
+"Endothelial","CAFs","COL4A2","ITGB1",26.0690260327776
+"Endothelial","CAFs","APP","LRP1",24.3541293071584
+"Endothelial","CAFs","HSP90B1","LRP1",21.9426105357242
+"Endothelial","CAFs","SERPING1","C1R",21.3754659394442
+"Endothelial","Cancer Epithelial","HLA-DRA","CD9",113.471399314963
+"Endothelial","Cancer Epithelial","B2M","TAP1",85.7149626195036
+"Endothelial","Cancer Epithelial","HLA-DRA","CD63",81.6531887340552
+"Endothelial","Cancer Epithelial","HLA-A","APLP2",56.808976806513
+"Endothelial","Cancer Epithelial","HLA-A","ERBB2",42.527895649414
+"Endothelial","Cancer Epithelial","LGALS3","ANXA2",41.7382550772867
+"Endothelial","Cancer Epithelial","APP","CD74",22.4282632910345
+"Endothelial","Cancer Epithelial","TIMP1","CD63",21.9384031699741
+"Endothelial","Cancer Epithelial","HLA-DRA","CD82",18.3898455288237
+"Endothelial","Cancer Epithelial","MIF","CD74",18.3266370518743
+"Endothelial","Cancer Epithelial","HLA-DRB1","CD82",17.341890612325
+"Endothelial","Cancer Epithelial","B2M","TAP2",12.4472657041722
+"Endothelial","Cancer Epithelial","HSPG2","ITGB1",11.5625431192264
+"Endothelial","Cancer Epithelial","HLA-DMA","CD74",11.5313115022312
+"Endothelial","Cancer Epithelial","CD99","CD99",11.0944926623027
+"Endothelial","Cancer Epithelial","LAMB2","RPSA",10.5774306571841
+"Endothelial","Cancer Epithelial","HBEGF","CD9",9.74305523444243
+"Endothelial","Cancer Epithelial","IFITM1","CD81",9.31919700732123
+"Endothelial","Cancer Epithelial","TIMP3","CD44",9.26749986364641
+"Endothelial","Cancer Epithelial","MIF","CD44",8.72140266813119
+"Endothelial","Myeloid","APP","CD74",1152.33998604575
+"Endothelial","Myeloid","MIF","CD74",941.602852195172
+"Endothelial","Myeloid","HLA-DMA","CD74",592.466352081841
+"Endothelial","Myeloid","B2M","TAP1",174.450960480444
+"Endothelial","Myeloid","HLA-DRA","CD63",170.306303708161
+"Endothelial","Myeloid","B2M","LILRB1",125.361379471349
+"Endothelial","Myeloid","HLA-DMB","CD74",120.196337850842
+"Endothelial","Myeloid","COPA","CD74",111.06232736276
+"Endothelial","Myeloid","HLA-A","APLP2",89.6450685390287
+"Endothelial","Myeloid","RPS19","C5AR1",87.1130662112784
+"Endothelial","Myeloid","HLA-B","LILRB2",61.4637651530942
+"Endothelial","Myeloid","IFITM1","CD81",57.7071187875528
+"Endothelial","Myeloid","HLA-DRA","CD37",52.8804520739324
+"Endothelial","Myeloid","HLA-DRB1","CD37",49.8670319964941
+"Endothelial","Myeloid","HLA-DRA","CD81",47.2048217115525
+"Endothelial","Myeloid","TIMP1","CD63",45.757531470163
+"Endothelial","Myeloid","HLA-DRB1","CD81",44.5148303835924
+"Endothelial","Myeloid","HLA-DRA","CD9",44.4774305438341
+"Endothelial","Myeloid","HLA-B","LILRB1",43.2606034814905
+"Endothelial","Myeloid","HLA-DRA","CD53",42.2217704926406
+"Endothelial","Normal Epithelial","HLA-DRA","CD9",109.376514071747
+"Endothelial","Normal Epithelial","HLA-DRA","CD63",88.6732119546271
+"Endothelial","Normal Epithelial","B2M","TAP1",70.2742592144104
+"Endothelial","Normal Epithelial","APP","CD74",64.110954547641
+"Endothelial","Normal Epithelial","HLA-A","APLP2",56.8978758863953
+"Endothelial","Normal Epithelial","MIF","CD74",52.3864991148689
+"Endothelial","Normal Epithelial","CALM1","MYLK",45.3978675536095
+"Endothelial","Normal Epithelial","LGALS3","ANXA2",37.165074905648
+"Endothelial","Normal Epithelial","HLA-DMA","CD74",32.9621325557452
+"Endothelial","Normal Epithelial","CALM2","MYLK",29.7383579737002
+"Endothelial","Normal Epithelial","TIMP1","CD63",23.8245279137008
+"Endothelial","Normal Epithelial","HLA-DRA","CD82",16.4676601849242
+"Endothelial","Normal Epithelial","HLA-DRB1","CD82",15.5292420004445
+"Endothelial","Normal Epithelial","HSPG2","ITGB1",14.5189239570947
+"Endothelial","Normal Epithelial","HLA-A","ERBB2",14.1365213866485
+"Endothelial","Normal Epithelial","ANXA2","PLAT",13.8709334348334
+"Endothelial","Normal Epithelial","LAMB2","RPSA",13.2687428167651
+"Endothelial","Normal Epithelial","IFITM1","CD81",12.7118038870559
+"Endothelial","Normal Epithelial","HLA-DRA","CD81",10.3983433712883
+"Endothelial","Normal Epithelial","HLA-DRB1","CD81",9.8057883635639
+"Endothelial","Plasmablasts","APP","CD74",110.059223099701
+"Endothelial","Plasmablasts","B2M","TAP1",92.4217405679183
+"Endothelial","Plasmablasts","MIF","CD74",89.931860072544
+"Endothelial","Plasmablasts","HLA-DMA","CD74",56.5860659288558
+"Endothelial","Plasmablasts","HLA-DRA","CD63",33.4626008919593
+"Endothelial","Plasmablasts","B2M","LILRB1",16.9597658150073
+"Endothelial","Plasmablasts","PECAM1","CD38",16.3203070422507
+"Endothelial","Plasmablasts","HLA-DMB","CD74",11.4798720199645
+"Endothelial","Plasmablasts","COPA","CD74",10.6074887734607
+"Endothelial","Plasmablasts","HLA-DRA","CD37",10.2253635523182
+"Endothelial","Plasmablasts","HMGB1","SDC1",9.90340055529538
+"Endothelial","Plasmablasts","HLA-DRB1","CD37",9.64266588958672
+"Endothelial","Plasmablasts","HSPG2","SDC1",9.57321327979997
+"Endothelial","Plasmablasts","HMGB1","CXCR4",9.50664136996602
+"Endothelial","Plasmablasts","PECAM1","PECAM1",9.01102185065996
+"Endothelial","Plasmablasts","TIMP1","CD63",8.99065965292253
+"Endothelial","Plasmablasts","B2M","TAP2",7.708032835313
+"Endothelial","Plasmablasts","HLA-DRA","CD9",6.44989091244279
+"Endothelial","Plasmablasts","HLA-B","CD8A",6.41703497163948
+"Endothelial","Plasmablasts","HLA-B","LILRB1",5.85259756358738
+"Endothelial","PVL","HLA-DRA","CD63",203.558036891849
+"Endothelial","PVL","B2M","TAP1",84.4116448199025
+"Endothelial","PVL","IFITM1","CD81",62.8307038780523
+"Endothelial","PVL","TIMP1","CD63",54.6915356406568
+"Endothelial","PVL","HLA-DRA","CD81",51.3959497006554
+"Endothelial","PVL","HSPG2","ITGB1",51.1073610062084
+"Endothelial","PVL","HLA-DRA","CD9",48.600009623852
+"Endothelial","PVL","HLA-DRB1","CD81",48.4671247634096
+"Endothelial","PVL","CALM1","MYLK",44.5280588991199
+"Endothelial","PVL","HLA-A","APLP2",44.5107724412571
+"Endothelial","PVL","COL4A1","ITGB1",33.8400689655928
+"Endothelial","PVL","COL4A2","ITGB1",32.3938892431608
+"Endothelial","PVL","CALM2","MYLK",29.1685805253368
+"Endothelial","PVL","B2M","TAP2",27.6552770887157
+"Endothelial","PVL","LGALS3","MCAM",27.4613254768885
+"Endothelial","PVL","LGALS1","ITGB1",25.9737608276142
+"Endothelial","PVL","COL15A1","ITGB1",24.6612343771601
+"Endothelial","PVL","ADAM15","ITGB1",23.4872804515585
+"Endothelial","PVL","CD99","CD99",20.4527197592494
+"Endothelial","PVL","LGALS3","ANXA2",20.1853249399781
+"Endothelial","T-cells","B2M","KLRD1",256.246989877119
+"Endothelial","T-cells","B2M","TAP1",232.197456753201
+"Endothelial","T-cells","HMGB1","CXCR4",187.408674001188
+"Endothelial","T-cells","HLA-B","CD8A",160.281787703536
+"Endothelial","T-cells","B2M","KLRC1",129.315885436281
+"Endothelial","T-cells","HLA-A","CD8A",105.449627076138
+"Endothelial","T-cells","MIF","CXCR4",104.423961454842
+"Endothelial","T-cells","APP","CD74",93.165595813978
+"Endothelial","T-cells","HLA-B","KLRD1",88.4275481743014
+"Endothelial","T-cells","HLA-DRA","CD37",77.1217847988799
+"Endothelial","T-cells","MIF","CD74",76.1276982550369
+"Endothelial","T-cells","HLA-E","CD8A",73.8595836633794
+"Endothelial","T-cells","HLA-DRB1","CD37",72.7269597622879
+"Endothelial","T-cells","CD59","CD2",67.5584540138232
+"Endothelial","T-cells","CXCL12","CXCR4",62.3100789424065
+"Endothelial","T-cells","HLA-A","KLRD1",58.1766157704992
+"Endothelial","T-cells","LGALS1","CD69",58.0399770045858
+"Endothelial","T-cells","HLA-DMA","CD74",47.900343093056
+"Endothelial","T-cells","HLA-DRA","CD53",46.2728589953811
+"Endothelial","T-cells","HLA-DRB1","CD53",43.6359760477428
+"Myeloid","B-cells","HLA-DRA","CD37",1464.08274233864
+"Myeloid","B-cells","HLA-DMA","CD74",1278.38799684828
+"Myeloid","B-cells","HLA-DRB1","CD37",881.507471202459
+"Myeloid","B-cells","MIF","CD74",665.812326397261
+"Myeloid","B-cells","HLA-DMB","CD74",551.723628494259
+"Myeloid","B-cells","HLA-DRA","CD53",316.016002436007
+"Myeloid","B-cells","LGALS1","CD69",215.01091469689
+"Myeloid","B-cells","B2M","TAP1",197.617458670106
+"Myeloid","B-cells","HLA-DRB1","CD53",190.269620091213
+"Myeloid","B-cells","HLA-DRA","CD19",156.615168915015
+"Myeloid","B-cells","HLA-DRA","CD82",155.050749283326
+"Myeloid","B-cells","APP","CD74",117.902953047577
+"Myeloid","B-cells","S100A8","CD69",115.655514361065
+"Myeloid","B-cells","COPA","CD74",102.392981045185
+"Myeloid","B-cells","HMGB1","CXCR4",95.3637059873393
+"Myeloid","B-cells","HLA-DRB1","CD19",94.2962016488873
+"Myeloid","B-cells","HLA-DRB1","CD82",93.3542824843823
+"Myeloid","B-cells","MIF","CXCR4",77.9893329380964
+"Myeloid","B-cells","HLA-DRA","CD63",72.6706565887659
+"Myeloid","B-cells","LGALS1","PTPRC",57.3168360498994
+"Myeloid","CAFs","HLA-DRA","CD63",1544.29148374215
+"Myeloid","CAFs","HLA-DRA","CD81",258.709250432895
+"Myeloid","CAFs","APOE","LRP1",200.470822037908
+"Myeloid","CAFs","HLA-DRB1","CD81",155.765880254489
+"Myeloid","CAFs","C1QB","LRP1",151.213025582645
+"Myeloid","CAFs","TIMP1","CD63",129.36196236708
+"Myeloid","CAFs","APOE","APP",115.027201869708
+"Myeloid","CAFs","HLA-DRA","CD9",103.938657396384
+"Myeloid","CAFs","B2M","TAP1",95.4786494778364
+"Myeloid","CAFs","PSAP","LRP1",94.0285732933873
+"Myeloid","CAFs","SPP1","ITGB1",93.0728209249347
+"Myeloid","CAFs","LGALS1","ITGB1",74.453273202324
+"Myeloid","CAFs","TIMP1","MMP2",66.3159440848789
+"Myeloid","CAFs","LGALS3","ANXA2",59.5963844993335
+"Myeloid","CAFs","CTSD","APP",42.9364696715576
+"Myeloid","CAFs","ITGB2","THY1",38.3391746111091
+"Myeloid","CAFs","HLA-DRA","CD82",30.5646623626755
+"Myeloid","CAFs","CD99","CD99",29.5788019521802
+"Myeloid","CAFs","NAMPT","ITGB1",29.4848735521525
+"Myeloid","CAFs","HLA-DMA","CD74",29.0895946321625
+"Myeloid","Cancer Epithelial","HLA-DRA","CD9",562.661922937701
+"Myeloid","Cancer Epithelial","HLA-DRA","CD63",404.887403032494
+"Myeloid","Cancer Epithelial","APOE","APP",103.450560959834
+"Myeloid","Cancer Epithelial","B2M","TAP1",93.6117250511291
+"Myeloid","Cancer Epithelial","HLA-DRA","CD82",91.1883162650903
+"Myeloid","Cancer Epithelial","HLA-DRB1","CD82",54.903442100308
+"Myeloid","Cancer Epithelial","LGALS3","ANXA2",51.0409348858067
+"Myeloid","Cancer Epithelial","HLA-A","APLP2",41.9986743246708
+"Myeloid","Cancer Epithelial","CTSD","APP",38.6152301452033
+"Myeloid","Cancer Epithelial","HLA-DRA","CD81",37.8004159443254
+"Myeloid","Cancer Epithelial","APOE","LDLR",34.2709426035056
+"Myeloid","Cancer Epithelial","SPP1","CD44",34.2394641424967
+"Myeloid","Cancer Epithelial","TIMP1","CD63",33.9165433115473
+"Myeloid","Cancer Epithelial","HLA-A","ERBB2",31.4407218629671
+"Myeloid","Cancer Epithelial","HLA-DMA","CD74",31.0073655847926
+"Myeloid","Cancer Epithelial","SPP1","ITGB1",26.1656226219454
+"Myeloid","Cancer Epithelial","HLA-DRB1","CD81",22.759198032932
+"Myeloid","Cancer Epithelial","HBEGF","CD9",21.4075135198719
+"Myeloid","Cancer Epithelial","LGALS1","ITGB1",20.931097072386
+"Myeloid","Cancer Epithelial","S100A4","ERBB2",20.4988809824875
+"Myeloid","Endothelial","HLA-DRA","CD63",642.80972401515
+"Myeloid","Endothelial","HLA-DMA","CD74",622.669965966582
+"Myeloid","Endothelial","HLA-DRA","CD9",379.261203406847
+"Myeloid","Endothelial","CXCL8","ACKR1",325.628633334232
+"Myeloid","Endothelial","MIF","CD74",324.300087015849
+"Myeloid","Endothelial","HLA-DMB","CD74",268.730411912849
+"Myeloid","Endothelial","APOE","APP",266.054766607269
+"Myeloid","Endothelial","HLA-DRA","CD81",250.343165049052
+"Myeloid","Endothelial","CXCL10","ACKR1",242.032804391509
+"Myeloid","Endothelial","B2M","TAP1",191.907493865204
+"Myeloid","Endothelial","CXCL2","ACKR1",172.055957308495
+"Myeloid","Endothelial","CCL2","ACKR1",160.049126803218
+"Myeloid","Endothelial","HLA-DRB1","CD81",150.72875594634
+"Myeloid","Endothelial","C1QA","CD93",109.465374899313
+"Myeloid","Endothelial","CTSD","APP",99.3108780507916
+"Myeloid","Endothelial","CXCL9","ACKR1",84.0992870969426
+"Myeloid","Endothelial","CXCL3","ACKR1",79.054148501996
+"Myeloid","Endothelial","APOE","SCARB1",74.689074959835
+"Myeloid","Endothelial","SPP1","ITGB1",68.2498918162085
+"Myeloid","Endothelial","LGALS3","ENG",62.2575810637607
+"Myeloid","Normal Epithelial","HLA-DRA","CD9",542.356929617209
+"Myeloid","Normal Epithelial","HLA-DRA","CD63",439.697053642253
+"Myeloid","Normal Epithelial","APOE","APP",198.888431310683
+"Myeloid","Normal Epithelial","HLA-DMA","CD74",88.6342281545879
+"Myeloid","Normal Epithelial","HLA-DRA","CD82",81.6569232588305
+"Myeloid","Normal Epithelial","B2M","TAP1",76.7484979367452
+"Myeloid","Normal Epithelial","CTSD","APP",74.2395447354064
+"Myeloid","Normal Epithelial","HLA-DRA","CD81",51.5614675766499
+"Myeloid","Normal Epithelial","APOE","LDLR",51.1112320591736
+"Myeloid","Normal Epithelial","HLA-DRB1","CD82",49.1646994029082
+"Myeloid","Normal Epithelial","MIF","CD74",46.1626374711931
+"Myeloid","Normal Epithelial","LGALS3","ANXA2",45.4484780154979
+"Myeloid","Normal Epithelial","HLA-A","APLP2",42.0643970979652
+"Myeloid","Normal Epithelial","HLA-DMB","CD74",38.2525478077067
+"Myeloid","Normal Epithelial","TIMP1","CD63",36.8324725642807
+"Myeloid","Normal Epithelial","SPP1","ITGB1",32.85580699858
+"Myeloid","Normal Epithelial","HLA-DRB1","CD81",31.0445698051041
+"Myeloid","Normal Epithelial","CALM2","MYLK",28.1440588276276
+"Myeloid","Normal Epithelial","CALM1","MYLK",26.7384036936576
+"Myeloid","Normal Epithelial","LGALS1","ITGB1",26.282886351119
+"Myeloid","Plasmablasts","HLA-DRA","CD63",165.928431992852
+"Myeloid","Plasmablasts","HLA-DMA","CD74",152.158306791184
+"Myeloid","Plasmablasts","B2M","TAP1",100.936386161617
+"Myeloid","Plasmablasts","MIF","CD74",79.2473618925337
+"Myeloid","Plasmablasts","HLA-DMB","CD74",65.6681174536545
+"Myeloid","Plasmablasts","HLA-DRA","CD37",50.7037258182973
+"Myeloid","Plasmablasts","HLA-DRA","CD9",31.9825792705714
+"Myeloid","Plasmablasts","HLA-DRB1","CD37",30.5281333042938
+"Myeloid","Plasmablasts","HLA-DRA","CD53",24.6554830166331
+"Myeloid","Plasmablasts","B2M","LILRB1",18.522237960409
+"Myeloid","Plasmablasts","CXCL8","SDC1",16.5289558819674
+"Myeloid","Plasmablasts","HLA-DRA","LAG3",15.155302242063
+"Myeloid","Plasmablasts","SPP1","CD44",15.0413098407713
+"Myeloid","Plasmablasts","HLA-DRB1","CD53",14.8447842849037
+"Myeloid","Plasmablasts","APP","CD74",14.0332307137024
+"Myeloid","Plasmablasts","TIMP1","CD63",13.8994663902919
+"Myeloid","Plasmablasts","HLA-DRA","CD19",13.0222519632568
+"Myeloid","Plasmablasts","HLA-DRA","CD81",12.7219322625246
+"Myeloid","Plasmablasts","COPA","CD74",12.1871784321723
+"Myeloid","Plasmablasts","HLA-DRA","CD82",9.13743570477177
+"Myeloid","PVL","HLA-DRA","CD63",1009.36762178351
+"Myeloid","PVL","HLA-DRA","CD81",254.853152991538
+"Myeloid","PVL","HLA-DRA","CD9",240.989139420452
+"Myeloid","PVL","HLA-DRB1","CD81",153.444168095782
+"Myeloid","PVL","SPP1","ITGB1",115.654134864878
+"Myeloid","PVL","APOE","APP",98.9095918199771
+"Myeloid","PVL","LGALS1","ITGB1",92.5171152491231
+"Myeloid","PVL","B2M","TAP1",92.1883349710087
+"Myeloid","PVL","TIMP1","CD63",84.5525457326872
+"Myeloid","PVL","HLA-DRA","CD82",38.6630584668033
+"Myeloid","PVL","CTSD","APP",36.9202120922233
+"Myeloid","PVL","NAMPT","ITGB1",36.6384891785411
+"Myeloid","PVL","SPP1","CD44",35.4686743595443
+"Myeloid","PVL","LGALS3","MCAM",33.5819435419228
+"Myeloid","PVL","FN1","ITGB1",33.5811968278002
+"Myeloid","PVL","CXCL8","SDC2",33.1581501273131
+"Myeloid","PVL","HLA-A","APLP2",32.9066556165393
+"Myeloid","PVL","B2M","TAP2",30.2031070880101
+"Myeloid","PVL","ITGB2","THY1",28.0909522973144
+"Myeloid","PVL","CALM2","MYLK",27.6048276421137
+"Myeloid","T-cells","HLA-DRA","CD37",382.417877961281
+"Myeloid","T-cells","B2M","KLRD1",279.854555476388
+"Myeloid","T-cells","B2M","TAP1",253.589382937048
+"Myeloid","T-cells","HLA-DRB1","CD37",230.249429759542
+"Myeloid","T-cells","HLA-DRA","CD53",229.449676124096
+"Myeloid","T-cells","LGALS1","CD69",206.735223182655
+"Myeloid","T-cells","HLA-DRA","CD63",155.979351146056
+"Myeloid","T-cells","B2M","KLRC1",141.22952098739
+"Myeloid","T-cells","HLA-DRB1","CD53",138.14902526977
+"Myeloid","T-cells","HLA-DRA","CD82",129.372217934882
+"Myeloid","T-cells","HLA-DMA","CD74",128.802647438324
+"Myeloid","T-cells","HLA-B","CD8A",125.143892016879
+"Myeloid","T-cells","LGALS1","PTPRC",124.573063097548
+"Myeloid","T-cells","HMGB1","CXCR4",112.51730376081
+"Myeloid","T-cells","S100A8","CD69",111.203975888604
+"Myeloid","T-cells","HLA-DRA","LAG3",94.9178689124603
+"Myeloid","T-cells","MIF","CXCR4",92.0177060386448
+"Myeloid","T-cells","SPP1","CD44",85.9283401590518
+"Myeloid","T-cells","HLA-A","CD8A",77.9585339181989
+"Myeloid","T-cells","HLA-DRB1","CD82",77.893532501767
+"Normal Epithelial","B-cells","MIF","CD74",1539.00128026182
+"Normal Epithelial","B-cells","APP","CD74",691.244897540127
+"Normal Epithelial","B-cells","MIF","CXCR4",180.269542151555
+"Normal Epithelial","B-cells","HMGB1","CXCR4",126.004860368301
+"Normal Epithelial","B-cells","CXCL14","CXCR4",116.693278346
+"Normal Epithelial","B-cells","COPA","CD74",71.837722157749
+"Normal Epithelial","B-cells","HLA-DMA","CD74",69.3273745655709
+"Normal Epithelial","B-cells","B2M","TAP1",48.0161707741022
+"Normal Epithelial","B-cells","LGALS1","CD69",45.465825199851
+"Normal Epithelial","B-cells","HLA-DRA","CD37",33.1720021730633
+"Normal Epithelial","B-cells","HLA-DRB1","CD37",26.4529204031049
+"Normal Epithelial","B-cells","MIF","CD44",24.6974784740744
+"Normal Epithelial","B-cells","ZG16B","CXCR4",17.5311563395979
+"Normal Epithelial","B-cells","CD82","CD37",17.1294146463172
+"Normal Epithelial","B-cells","MMP7","CD44",14.3779087162397
+"Normal Epithelial","B-cells","B2M","LILRB1",12.4090674774818
+"Normal Epithelial","B-cells","LGALS1","PTPRC",12.1201160998128
+"Normal Epithelial","B-cells","LAMB2","RPSA",8.47865182560865
+"Normal Epithelial","B-cells","HLA-DMB","CD74",8.40221687428473
+"Normal Epithelial","B-cells","HLA-DRA","CD53",7.16003489173382
+"Normal Epithelial","CAFs","TIMP1","CD63",61.110244018515
+"Normal Epithelial","CAFs","LGALS3","ANXA2",50.7003140935749
+"Normal Epithelial","CAFs","LTF","LRP1",41.4528748115391
+"Normal Epithelial","CAFs","MIF","CD74",35.0198245693547
+"Normal Epithelial","CAFs","HLA-DRA","CD63",34.9893069381519
+"Normal Epithelial","CAFs","TIMP1","MMP2",31.3274740981854
+"Normal Epithelial","CAFs","B2M","TAP1",23.198958075165
+"Normal Epithelial","CAFs","AZGP1","ITGAV",19.2399408976665
+"Normal Epithelial","CAFs","HSP90B1","LRP1",18.4303930184059
+"Normal Epithelial","CAFs","APP","LRP1",18.2058552665898
+"Normal Epithelial","CAFs","MDK","ITGB1",17.8906674693698
+"Normal Epithelial","CAFs","LGALS1","ITGB1",15.7437565890351
+"Normal Epithelial","CAFs","APP","CD74",15.7292104670625
+"Normal Epithelial","CAFs","CALR","LRP1",15.0846060049151
+"Normal Epithelial","CAFs","MDK","LRP1",15.0177208797879
+"Normal Epithelial","CAFs","MIF","CD44",14.6923679741663
+"Normal Epithelial","CAFs","SERPING1","C1R",13.5617023743903
+"Normal Epithelial","CAFs","IFITM1","CD81",12.9152136284719
+"Normal Epithelial","CAFs","TIMP3","MMP2",12.6189162030347
+"Normal Epithelial","CAFs","APOE","LRP1",12.5871307042646
+"Normal Epithelial","Cancer Epithelial","LGALS3","ANXA2",43.4219533966703
+"Normal Epithelial","Cancer Epithelial","MIF","CD74",37.3285539681156
+"Normal Epithelial","Cancer Epithelial","B2M","TAP1",22.7453414630581
+"Normal Epithelial","Cancer Epithelial","MIF","CD44",17.7641620365754
+"Normal Epithelial","Cancer Epithelial","APP","CD74",16.7661799856472
+"Normal Epithelial","Cancer Epithelial","TIMP1","CD63",16.0220840818091
+"Normal Epithelial","Cancer Epithelial","HLA-A","APLP2",15.1056707083087
+"Normal Epithelial","Cancer Epithelial","MMP7","CD151",15.0783022395598
+"Normal Epithelial","Cancer Epithelial","HLA-DRA","CD9",12.7483385949728
+"Normal Epithelial","Cancer Epithelial","HLA-A","ERBB2",11.3082900574916
+"Normal Epithelial","Cancer Epithelial","PTN","SDC4",10.6098508698218
+"Normal Epithelial","Cancer Epithelial","MMP7","CD44",10.3416022996228
+"Normal Epithelial","Cancer Epithelial","AREG","ERBB2",9.26637003406747
+"Normal Epithelial","Cancer Epithelial","HLA-DRA","CD63",9.17361117977941
+"Normal Epithelial","Cancer Epithelial","AZGP1","ITGAV",6.55710177332568
+"Normal Epithelial","Cancer Epithelial","APOE","APP",6.49543768511452
+"Normal Epithelial","Cancer Epithelial","HMGB1","SDC1",6.24466845667909
+"Normal Epithelial","Cancer Epithelial","PTN","SDC1",6.22250641861966
+"Normal Epithelial","Cancer Epithelial","MDK","SDC4",5.6438345014975
+"Normal Epithelial","Cancer Epithelial","EPCAM","CLDN7",5.55553759050016
+"Normal Epithelial","Endothelial","MIF","CD74",749.608004115895
+"Normal Epithelial","Endothelial","APP","CD74",336.687639345043
+"Normal Epithelial","Endothelial","CXCL2","ACKR1",217.80148524813
+"Normal Epithelial","Endothelial","CCL2","ACKR1",55.875148322732
+"Normal Epithelial","Endothelial","LGALS3","ENG",52.9642685736106
+"Normal Epithelial","Endothelial","LGALS3","ANXA2",49.4298367726296
+"Normal Epithelial","Endothelial","CXCL3","ACKR1",48.9952371004609
+"Normal Epithelial","Endothelial","B2M","TAP1",46.6287900890588
+"Normal Epithelial","Endothelial","COPA","CD74",34.990309766176
+"Normal Epithelial","Endothelial","HLA-DMA","CD74",33.767583916403
+"Normal Epithelial","Endothelial","TIMP1","CD63",25.4370755168906
+"Normal Epithelial","Endothelial","CD9","CD36",23.452886228128
+"Normal Epithelial","Endothelial","CXCL1","ACKR1",22.8890496702902
+"Normal Epithelial","Endothelial","MMP7","CD151",21.4269905667091
+"Normal Epithelial","Endothelial","SAA1","CD36",20.7869457506183
+"Normal Epithelial","Endothelial","HLA-A","APLP2",20.2451249124339
+"Normal Epithelial","Endothelial","HMGB1","THBD",17.6487429951475
+"Normal Epithelial","Endothelial","APOE","APP",16.7050051859668
+"Normal Epithelial","Endothelial","PTN","PTPRB",14.9982684141553
+"Normal Epithelial","Endothelial","B2M","TAP2",14.8500354748367
+"Normal Epithelial","Myeloid","MIF","CD74",1917.90085574397
+"Normal Epithelial","Myeloid","APP","CD74",861.428250595948
+"Normal Epithelial","Myeloid","RPS19","C5AR1",153.603277209113
+"Normal Epithelial","Myeloid","COPA","CD74",89.524050803652
+"Normal Epithelial","Myeloid","HLA-DMA","CD74",86.3956597769505
+"Normal Epithelial","Myeloid","B2M","TAP1",46.2923455068191
+"Normal Epithelial","Myeloid","MIF","CXCR4",41.2063604361206
+"Normal Epithelial","Myeloid","LGALS3","ANXA2",41.0823756217026
+"Normal Epithelial","Myeloid","MIF","CD44",35.1244072120077
+"Normal Epithelial","Myeloid","TIMP1","CD63",33.417701867854
+"Normal Epithelial","Myeloid","B2M","LILRB1",33.265923418918
+"Normal Epithelial","Myeloid","HMGB1","CXCR4",28.8024345714159
+"Normal Epithelial","Myeloid","PIP","CD4",28.1223965239918
+"Normal Epithelial","Myeloid","CXCL14","CXCR4",26.673975151916
+"Normal Epithelial","Myeloid","HLA-A","APLP2",23.8368821636493
+"Normal Epithelial","Myeloid","CLU","TREM2",22.1869837454831
+"Normal Epithelial","Myeloid","MMP7","CD44",20.4480599562585
+"Normal Epithelial","Myeloid","HLA-DRA","CD63",19.1336533931649
+"Normal Epithelial","Myeloid","HLA-B","LILRB2",17.9163269951311
+"Normal Epithelial","Myeloid","S100A9","CD68",17.5510366672337
+"Normal Epithelial","Plasmablasts","MIF","CD74",183.177430898466
+"Normal Epithelial","Plasmablasts","APP","CD74",82.274437375083
+"Normal Epithelial","Plasmablasts","B2M","TAP1",24.5250535447255
+"Normal Epithelial","Plasmablasts","MIF","CXCR4",10.7893672331797
+"Normal Epithelial","Plasmablasts","COPA","CD74",8.55038235199882
+"Normal Epithelial","Plasmablasts","HLA-DMA","CD74",8.2515918126439
+"Normal Epithelial","Plasmablasts","HMGB1","SDC1",7.85630166584625
+"Normal Epithelial","Plasmablasts","PTN","SDC1",7.82842001644683
+"Normal Epithelial","Plasmablasts","MIF","CD44",7.80375137127696
+"Normal Epithelial","Plasmablasts","HMGB1","CXCR4",7.54155524806391
+"Normal Epithelial","Plasmablasts","CXCL14","CXCR4",6.98424491842424
+"Normal Epithelial","Plasmablasts","TIMP1","CD63",6.56607063850507
+"Normal Epithelial","Plasmablasts","MMP7","SDC1",6.54329221589388
+"Normal Epithelial","Plasmablasts","MMP7","CD44",4.54303968634821
+"Normal Epithelial","Plasmablasts","B2M","LILRB1",4.50044721256246
+"Normal Epithelial","Plasmablasts","MDK","SDC1",4.16427219601235
+"Normal Epithelial","Plasmablasts","LGALS3","ANXA2",4.09486185000495
+"Normal Epithelial","Plasmablasts","HLA-DRA","CD63",3.75947215786987
+"Normal Epithelial","Plasmablasts","LTF","BTN3A2",3.12829271669762
+"Normal Epithelial","Plasmablasts","CALR","TAP1",2.45459949008125
+"Normal Epithelial","PVL","TIMP1","CD63",39.9423957983036
+"Normal Epithelial","PVL","CALM2","MYLK",38.9649164644273
+"Normal Epithelial","PVL","SCGB3A1","NOTCH3",30.2113471586125
+"Normal Epithelial","PVL","LGALS3","MCAM",28.5691002860622
+"Normal Epithelial","PVL","MMP7","CD151",27.6833903437729
+"Normal Epithelial","PVL","CALM1","MYLK",24.6050974843062
+"Normal Epithelial","PVL","MIF","CD74",23.1449890958728
+"Normal Epithelial","PVL","HLA-DRA","CD63",22.8694348857217
+"Normal Epithelial","PVL","B2M","TAP1",22.3994927631245
+"Normal Epithelial","PVL","MDK","ITGB1",22.231298544115
+"Normal Epithelial","PVL","LGALS3","ANXA2",20.9995898778563
+"Normal Epithelial","PVL","LGALS1","ITGB1",19.5635044659988
+"Normal Epithelial","PVL","MIF","CD44",18.4019024340819
+"Normal Epithelial","PVL","PTN","SDC2",15.7043147805964
+"Normal Epithelial","PVL","AZGP1","ITGAV",13.2850943809253
+"Normal Epithelial","PVL","IFITM1","CD81",12.7227105689794
+"Normal Epithelial","PVL","CD9","CD36",12.299892222161
+"Normal Epithelial","PVL","NAMPT","ITGB1",11.8700877220886
+"Normal Epithelial","PVL","HLA-A","APLP2",11.8355427129081
+"Normal Epithelial","PVL","MFGE8","PDGFRB",11.368332999301
+"Normal Epithelial","T-cells","MIF","CXCR4",212.695622753812
+"Normal Epithelial","T-cells","MIF","CD74",155.060466616865
+"Normal Epithelial","T-cells","HMGB1","CXCR4",148.67005222386
+"Normal Epithelial","T-cells","CXCL14","CXCR4",137.683544389989
+"Normal Epithelial","T-cells","APP","CD74",69.645657696181
+"Normal Epithelial","T-cells","B2M","KLRD1",67.9977579819846
+"Normal Epithelial","T-cells","B2M","TAP1",61.615968546237
+"Normal Epithelial","T-cells","HLA-B","CD8A",46.7212009011811
+"Normal Epithelial","T-cells","MIF","CD44",44.581449983173
+"Normal Epithelial","T-cells","LGALS1","CD69",43.7158622069279
+"Normal Epithelial","T-cells","CD59","CD2",36.514487825406
+"Normal Epithelial","T-cells","B2M","KLRC1",34.3152919975333
+"Normal Epithelial","T-cells","HLA-A","CD8A",28.0393598418671
+"Normal Epithelial","T-cells","LGALS1","PTPRC",26.3419981231542
+"Normal Epithelial","T-cells","MMP7","CD44",25.9535814139298
+"Normal Epithelial","T-cells","HLA-B","KLRD1",25.7761115760208
+"Normal Epithelial","T-cells","ZG16B","CXCR4",20.6845824909811
+"Normal Epithelial","T-cells","HLA-A","KLRD1",15.4693298516197
+"Normal Epithelial","T-cells","HLA-E","CD8A",14.2213626559693
+"Normal Epithelial","T-cells","LTF","BTN3A2",10.9505616735459
+"Plasmablasts","B-cells","MIF","CD74",665.034198383606
+"Plasmablasts","B-cells","B2M","TAP1",102.933936477324
+"Plasmablasts","B-cells","HLA-DMA","CD74",82.9551077668954
+"Plasmablasts","B-cells","MIF","CXCR4",77.8981876073187
+"Plasmablasts","B-cells","HMGB1","CXCR4",53.4803171951638
+"Plasmablasts","B-cells","COPA","CD74",38.8946540061172
+"Plasmablasts","B-cells","LGALS1","CD69",28.9787302998476
+"Plasmablasts","B-cells","B2M","LILRB1",26.6017498454679
+"Plasmablasts","B-cells","HLA-DRB1","CD37",19.4426470996433
+"Plasmablasts","B-cells","HLA-DRA","CD37",18.3642474793629
+"Plasmablasts","B-cells","APP","CD74",16.1697432680935
+"Plasmablasts","B-cells","B2M","TAP2",13.6337550097453
+"Plasmablasts","B-cells","MIF","CD44",10.6722898867948
+"Plasmablasts","B-cells","HLA-DMB","CD74",8.2366088984013
+"Plasmablasts","B-cells","LGALS1","PTPRC",7.7250456604594
+"Plasmablasts","B-cells","HLA-C","LILRB1",6.09910635157068
+"Plasmablasts","B-cells","HLA-A","APLP2",5.1062815979766
+"Plasmablasts","B-cells","HLA-B","LILRB1",4.88439776376207
+"Plasmablasts","B-cells","HLA-DRB1","CD53",4.19661227847609
+"Plasmablasts","B-cells","HLA-DRA","CD53",3.96384432952455
+"Plasmablasts","CAFs","B2M","TAP1",49.7324138587305
+"Plasmablasts","CAFs","HSP90B1","LRP1",45.4453476155691
+"Plasmablasts","CAFs","HLA-DRA","CD63",19.370319837534
+"Plasmablasts","CAFs","MIF","CD74",15.1327885549603
+"Plasmablasts","CAFs","IFITM1","CD81",12.6191380035284
+"Plasmablasts","CAFs","PSAP","LRP1",12.2708165277276
+"Plasmablasts","CAFs","B2M","TAP2",12.0692632102733
+"Plasmablasts","CAFs","CALR","LRP1",11.6080376437291
+"Plasmablasts","CAFs","TIMP1","CD63",11.4197537368923
+"Plasmablasts","CAFs","HLA-A","APLP2",10.5096698902606
+"Plasmablasts","CAFs","LGALS1","ITGB1",10.0346595293203
+"Plasmablasts","CAFs","CD99","CD99",8.87919435777539
+"Plasmablasts","CAFs","MIF","CD44",6.34887526305009
+"Plasmablasts","CAFs","LGALS3","ANXA2",6.30003537525958
+"Plasmablasts","CAFs","TIMP1","MMP2",5.85420734519994
+"Plasmablasts","CAFs","HMGB1","SDC1",4.1416933274235
+"Plasmablasts","CAFs","APOE","LRP1",3.56415373045334
+"Plasmablasts","CAFs","HLA-DRB1","CD81",3.43559316158962
+"Plasmablasts","CAFs","HLA-DRA","CD81",3.24503565458409
+"Plasmablasts","CAFs","LRPAP1","LRP1",2.79970163231139
+"Plasmablasts","Cancer Epithelial","B2M","TAP1",48.7599801393623
+"Plasmablasts","Cancer Epithelial","MIF","CD74",16.1304381506308
+"Plasmablasts","Cancer Epithelial","HLA-A","APLP2",15.5869227866323
+"Plasmablasts","Cancer Epithelial","HLA-A","ERBB2",11.6685612561389
+"Plasmablasts","Cancer Epithelial","MIF","CD44",7.67626083971848
+"Plasmablasts","Cancer Epithelial","B2M","TAP2",7.08077574762543
+"Plasmablasts","Cancer Epithelial","HLA-DRA","CD9",7.05756751393504
+"Plasmablasts","Cancer Epithelial","LGALS3","ANXA2",5.39562421560152
+"Plasmablasts","Cancer Epithelial","HLA-DRA","CD63",5.0785739463661
+"Plasmablasts","Cancer Epithelial","TIMP1","CD63",2.99406846601051
+"Plasmablasts","Cancer Epithelial","LGALS1","ITGB1",2.82105035363294
+"Plasmablasts","Cancer Epithelial","CD44","EPCAM",2.67357324007057
+"Plasmablasts","Cancer Epithelial","HMGB1","SDC1",2.65042831574652
+"Plasmablasts","Cancer Epithelial","CD44","CLDN7",2.23804638161013
+"Plasmablasts","Cancer Epithelial","HLA-DMA","CD74",2.01208033867301
+"Plasmablasts","Cancer Epithelial","IFITM1","CD81",1.84380212378971
+"Plasmablasts","Cancer Epithelial","APOE","APP",1.83923874314617
+"Plasmablasts","Cancer Epithelial","CD99","CD99",1.77484352555022
+"Plasmablasts","Cancer Epithelial","CALR","TAP1",1.75181392003755
+"Plasmablasts","Cancer Epithelial","IL16","CD9",1.71135251267924
+"Plasmablasts","Endothelial","MIF","CD74",323.921080841687
+"Plasmablasts","Endothelial","B2M","TAP1",99.9597602154142
+"Plasmablasts","Endothelial","HLA-DMA","CD74",40.4053028167608
+"Plasmablasts","Endothelial","B2M","TAP2",31.83453789858
+"Plasmablasts","Endothelial","HLA-A","APLP2",20.8901150375444
+"Plasmablasts","Endothelial","COPA","CD74",18.9445872035556
+"Plasmablasts","Endothelial","CD38","PECAM1",16.3203070422507
+"Plasmablasts","Endothelial","CCL5","ACKR1",13.3463263509607
+"Plasmablasts","Endothelial","IFITM1","CD81",12.211062970141
+"Plasmablasts","Endothelial","PECAM1","PECAM1",9.01102185065996
+"Plasmablasts","Endothelial","HLA-DRA","CD63",8.0628754868724
+"Plasmablasts","Endothelial","APP","CD74",7.87586672845387
+"Plasmablasts","Endothelial","CXCL10","ACKR1",7.77184103645789
+"Plasmablasts","Endothelial","HMGB1","THBD",7.49066639745159
+"Plasmablasts","Endothelial","LGALS1","ITGB1",7.35837186928022
+"Plasmablasts","Endothelial","LGALS3","ENG",6.58135499954984
+"Plasmablasts","Endothelial","LGALS3","ANXA2",6.1421655038689
+"Plasmablasts","Endothelial","CXCL13","ACKR1",5.5637684768011
+"Plasmablasts","Endothelial","HLA-DRA","CD9",4.75714001488677
+"Plasmablasts","Endothelial","TIMP1","CD63",4.7534606162203
+"Plasmablasts","Myeloid","MIF","CD74",828.764520560983
+"Plasmablasts","Myeloid","HLA-DMA","CD74",103.378518403439
+"Plasmablasts","Myeloid","B2M","TAP1",99.238512254611
+"Plasmablasts","Myeloid","B2M","LILRB1",71.3133178439392
+"Plasmablasts","Myeloid","RPS19","C5AR1",49.3091496192149
+"Plasmablasts","Myeloid","COPA","CD74",48.4704536369894
+"Plasmablasts","Myeloid","HLA-A","APLP2",24.5963022055347
+"Plasmablasts","Myeloid","HLA-C","LILRB2",23.230215082528
+"Plasmablasts","Myeloid","B2M","TAP2",20.9005392823084
+"Plasmablasts","Myeloid","APP","CD74",20.1507073767742
+"Plasmablasts","Myeloid","HLA-B","LILRB2",18.6036451998564
+"Plasmablasts","Myeloid","MIF","CXCR4",17.8061183134815
+"Plasmablasts","Myeloid","HLA-C","LILRB1",16.3503345584482
+"Plasmablasts","Myeloid","MIF","CD44",15.1779808720906
+"Plasmablasts","Myeloid","HLA-B","LILRB1",13.0939736004898
+"Plasmablasts","Myeloid","HSP90B1","LRP1",12.6704466102428
+"Plasmablasts","Myeloid","HMGB1","CXCR4",12.2246342908514
+"Plasmablasts","Myeloid","IFITM1","CD81",11.41734723439
+"Plasmablasts","Myeloid","HLA-A","LILRB2",11.0949014275419
+"Plasmablasts","Myeloid","HLA-DRA","CD63",10.5925214963889
+"Plasmablasts","Normal Epithelial","MIF","CD74",46.1086876718632
+"Plasmablasts","Normal Epithelial","B2M","TAP1",39.9763516063573
+"Plasmablasts","Normal Epithelial","HLA-A","APLP2",15.6113144087284
+"Plasmablasts","Normal Epithelial","CALM1","MYLK",9.71976547408197
+"Plasmablasts","Normal Epithelial","HLA-DRA","CD9",6.80287840954146
+"Plasmablasts","Normal Epithelial","HLA-DMA","CD74",5.75151046984687
+"Plasmablasts","Normal Epithelial","HLA-DRA","CD63",5.51519751959848
+"Plasmablasts","Normal Epithelial","MIF","CD44",5.04579516955386
+"Plasmablasts","Normal Epithelial","CALM2","MYLK",5.02528411791009
+"Plasmablasts","Normal Epithelial","LGALS3","ANXA2",4.80443606864349
+"Plasmablasts","Normal Epithelial","B2M","TAP2",4.61082144396241
+"Plasmablasts","Normal Epithelial","HLA-A","ERBB2",3.87869804583428
+"Plasmablasts","Normal Epithelial","LGALS1","ITGB1",3.54235354118811
+"Plasmablasts","Normal Epithelial","APOE","APP",3.53602054001623
+"Plasmablasts","Normal Epithelial","TIMP1","CD63",3.25147948058623
+"Plasmablasts","Normal Epithelial","CTSD","APP",2.93142866094467
+"Plasmablasts","Normal Epithelial","CALM3","MYLK",2.80187045399509
+"Plasmablasts","Normal Epithelial","COPA","CD74",2.69667553643426
+"Plasmablasts","Normal Epithelial","IFITM1","CD81",2.51502902940446
+"Plasmablasts","Normal Epithelial","CD44","CLDN7",2.19706224146082
+"Plasmablasts","PVL","B2M","TAP1",48.0185722441512
+"Plasmablasts","PVL","B2M","TAP2",15.73203464581
+"Plasmablasts","PVL","HLA-DRA","CD63",12.6606757036693
+"Plasmablasts","PVL","LGALS1","ITGB1",12.4692671286191
+"Plasmablasts","PVL","IFITM1","CD81",12.4310479924981
+"Plasmablasts","PVL","HLA-A","APLP2",12.212611671888
+"Plasmablasts","PVL","MIF","CD74",10.0014272030706
+"Plasmablasts","PVL","CALM1","MYLK",9.53353786947075
+"Plasmablasts","PVL","MIF","CD44",7.95184162023638
+"Plasmablasts","PVL","TIMP1","CD63",7.46408938475048
+"Plasmablasts","PVL","CALM2","MYLK",4.92900127793162
+"Plasmablasts","PVL","HSP90B1","LRP1",4.19986049656836
+"Plasmablasts","PVL","LGALS3","MCAM",3.55000448536353
+"Plasmablasts","PVL","HLA-DRB1","CD81",3.38438516659994
+"Plasmablasts","PVL","CD99","CD99",3.27192764459973
+"Plasmablasts","PVL","HLA-DRA","CD81",3.19666794579974
+"Plasmablasts","PVL","HLA-DRA","CD9",3.02276918385547
+"Plasmablasts","PVL","CALM3","MYLK",2.74818751025845
+"Plasmablasts","PVL","LGALS3","ANXA2",2.60941498019642
+"Plasmablasts","PVL","MDK","ITGB1",2.56633542711281
+"Plasmablasts","T-cells","B2M","KLRD1",145.769160428202
+"Plasmablasts","T-cells","B2M","TAP1",132.088296298461
+"Plasmablasts","T-cells","MIF","CXCR4",91.9101658925974
+"Plasmablasts","T-cells","B2M","KLRC1",73.5628857888856
+"Plasmablasts","T-cells","MIF","CD74",67.004826077852
+"Plasmablasts","T-cells","HMGB1","CXCR4",63.1001179407981
+"Plasmablasts","T-cells","HLA-B","CD8A",48.5135510818144
+"Plasmablasts","T-cells","HLA-A","CD8A",28.9326667634419
+"Plasmablasts","T-cells","LGALS1","CD69",27.8633495631355
+"Plasmablasts","T-cells","HLA-B","KLRD1",26.7649521312329
+"Plasmablasts","T-cells","MIF","CD44",19.2645641251802
+"Plasmablasts","T-cells","LGALS1","PTPRC",16.7897020633528
+"Plasmablasts","T-cells","HLA-A","KLRD1",15.9621677589938
+"Plasmablasts","T-cells","HLA-E","CD8A",11.4350424659181
+"Plasmablasts","T-cells","B2M","TAP2",11.10256291067
+"Plasmablasts","T-cells","HLA-DMA","CD74",8.35805524242242
+"Plasmablasts","T-cells","CD59","CD2",6.55357364158633
+"Plasmablasts","T-cells","HLA-E","KLRD1",6.30871905671819
+"Plasmablasts","T-cells","HLA-DRB1","CD37",5.07841232655952
+"Plasmablasts","T-cells","HLA-DRA","CD37",4.79673473931938
+"PVL","B-cells","MIF","CD74",703.825508715153
+"PVL","B-cells","APP","CD74",343.764341710425
+"PVL","B-cells","LGALS1","CD69",289.923740265858
+"PVL","B-cells","HMGB1","CXCR4",167.30037791215
+"PVL","B-cells","B2M","TAP1",161.872713712095
+"PVL","B-cells","MIF","CXCR4",82.4419731405816
+"PVL","B-cells","LGALS1","PTPRC",77.2868275604438
+"PVL","B-cells","COPA","CD74",67.6154545473508
+"PVL","B-cells","B2M","LILRB1",41.8336030306665
+"PVL","B-cells","CCL19","CCR7",34.5865128185121
+"PVL","B-cells","CXCL12","CXCR4",33.4629133459705
+"PVL","B-cells","LAMB2","RPSA",31.989636985188
+"PVL","B-cells","TIMP3","CD44",27.4090293704612
+"PVL","B-cells","HLA-DMA","CD74",25.1052871626185
+"PVL","B-cells","COL1A2","CD44",22.009612640732
+"PVL","B-cells","B2M","TAP2",21.4402848763054
+"PVL","B-cells","TIMP1","CD63",19.9607713201049
+"PVL","B-cells","COL1A1","CD44",18.7124276176152
+"PVL","B-cells","LGALS1","ITGB1",16.8779677058951
+"PVL","B-cells","FN1","CD44",14.4242421725223
+"PVL","CAFs","TIMP1","CD63",424.177386107831
+"PVL","CAFs","TIMP1","MMP2",217.449730233494
+"PVL","CAFs","LGALS1","ITGB1",100.393840341938
+"PVL","CAFs","TIMP3","MMP2",99.5096924970852
+"PVL","CAFs","B2M","TAP1",78.2086167717795
+"PVL","CAFs","SERPING1","C1R",71.8672771998227
+"PVL","CAFs","A2M","MMP2",69.7133675134098
+"PVL","CAFs","COL18A1","ITGB1",48.0051669644973
+"PVL","CAFs","COL1A2","ITGB1",43.0328814841862
+"PVL","CAFs","CD99","CD99",42.6574346717023
+"PVL","CAFs","IFITM1","CD81",38.8615528334804
+"PVL","CAFs","TIMP3","MMP14",36.8972918332409
+"PVL","CAFs","SERPING1","LRP1",36.7245480686187
+"PVL","CAFs","COL1A1","ITGB1",36.5862722390677
+"PVL","CAFs","APOE","LRP1",35.7007960918443
+"PVL","CAFs","COL3A1","ITGB1",33.5214577551759
+"PVL","CAFs","COL6A2","ITGB1",32.5558898926363
+"PVL","CAFs","A2M","LRP1",31.5144583215557
+"PVL","CAFs","COL4A2","ITGB1",29.0295132975091
+"PVL","CAFs","LGALS3","ANXA2",28.2073471589799
+"PVL","Cancer Epithelial","TIMP1","CD63",111.212217443651
+"PVL","Cancer Epithelial","B2M","TAP1",76.6793787920979
+"PVL","Cancer Epithelial","HLA-A","APLP2",32.3374783206065
+"PVL","Cancer Epithelial","LGALS1","ITGB1",28.2237855675784
+"PVL","Cancer Epithelial","S100A4","ERBB2",28.2174668086228
+"PVL","Cancer Epithelial","HLA-A","ERBB2",24.2082322353371
+"PVL","Cancer Epithelial","LGALS3","ANXA2",24.1579985386352
+"PVL","Cancer Epithelial","TIMP3","CD44",19.7144999848157
+"PVL","Cancer Epithelial","APOE","APP",18.422967217222
+"PVL","Cancer Epithelial","MIF","CD74",17.0713233466189
+"PVL","Cancer Epithelial","COL1A2","CD44",15.8308600500511
+"PVL","Cancer Epithelial","S100A4","ERBB3",15.3848269625612
+"PVL","Cancer Epithelial","LAMB2","RPSA",14.3843611415751
+"PVL","Cancer Epithelial","COL18A1","ITGB1",13.4957237807327
+"PVL","Cancer Epithelial","COL1A1","CD44",13.4592928847349
+"PVL","Cancer Epithelial","COL1A2","ITGB1",12.0978619328434
+"PVL","Cancer Epithelial","B2M","TAP2",11.1351457515415
+"PVL","Cancer Epithelial","FN1","CD44",10.3749285772824
+"PVL","Cancer Epithelial","COL1A1","ITGB1",10.2855224869921
+"PVL","Cancer Epithelial","COL3A1","ITGB1",9.42390919973111
+"PVL","Endothelial","CCL2","ACKR1",360.888881986259
+"PVL","Endothelial","MIF","CD74",342.815331995087
+"PVL","Endothelial","SPARC","ENG",187.052799670631
+"PVL","Endothelial","TIMP1","CD63",176.563395814834
+"PVL","Endothelial","APP","CD74",167.438783437482
+"PVL","Endothelial","B2M","TAP1",157.195558644976
+"PVL","Endothelial","LGALS1","ITGB1",73.618363280051
+"PVL","Endothelial","CCL8","ACKR1",50.2206843584746
+"PVL","Endothelial","B2M","TAP2",50.0626247840907
+"PVL","Endothelial","APOE","APP",47.3802964209586
+"PVL","Endothelial","HLA-A","APLP2",43.3397695869078
+"PVL","Endothelial","IFITM1","CD81",37.6048561030402
+"PVL","Endothelial","COL18A1","ITGB1",35.2019786161679
+"PVL","Endothelial","CXCL2","ACKR1",34.3394745207845
+"PVL","Endothelial","COPA","CD74",32.9337516353501
+"PVL","Endothelial","CXCL9","ACKR1",32.6970401524448
+"PVL","Endothelial","COL1A2","ITGB1",31.5558234578941
+"PVL","Endothelial","COL1A2","CD93",30.5429070620891
+"PVL","Endothelial","COL1A2","CD36",30.4628620421683
+"PVL","Endothelial","TIMP1","MMP2",29.5763786606063
+"PVL","Myeloid","MIF","CD74",877.106187481264
+"PVL","Myeloid","APP","CD74",428.398555346572
+"PVL","Myeloid","TIMP1","CD63",231.958383667105
+"PVL","Myeloid","B2M","TAP1",156.061332473608
+"PVL","Myeloid","B2M","LILRB1",112.146495881411
+"PVL","Myeloid","RPS19","C5AR1",85.5331515364329
+"PVL","Myeloid","COPA","CD74",84.2622678753199
+"PVL","Myeloid","LGALS1","PTPRC",57.1575450563206
+"PVL","Myeloid","HLA-A","APLP2",51.0288271922859
+"PVL","Myeloid","TIMP1","MMP9",50.2547892124332
+"PVL","Myeloid","FN1","PLAUR",45.3050259296121
+"PVL","Myeloid","TIMP3","CD44",38.9807368353233
+"PVL","Myeloid","HMGB1","CXCR4",38.2418438027179
+"PVL","Myeloid","IFITM1","CD81",35.1605507954173
+"PVL","Myeloid","B2M","TAP2",32.8679454750944
+"PVL","Myeloid","COL1A2","CD44",31.301762152891
+"PVL","Myeloid","HLA-DMA","CD74",31.2861674323577
+"PVL","Myeloid","HLA-B","LILRB2",30.485272179822
+"PVL","Myeloid","THY1","ITGB2",28.0909522973144
+"PVL","Myeloid","COL1A1","CD44",26.612551894975
+"PVL","Normal Epithelial","TIMP1","CD63",120.773538452296
+"PVL","Normal Epithelial","CALM2","MYLK",73.3075019873674
+"PVL","Normal Epithelial","B2M","TAP1",62.8663465159084
+"PVL","Normal Epithelial","MIF","CD74",48.798198101262
+"PVL","Normal Epithelial","LGALS1","ITGB1",35.440213473075
+"PVL","Normal Epithelial","APOE","APP",35.4189964358344
+"PVL","Normal Epithelial","CALM1","MYLK",33.5337341388908
+"PVL","Normal Epithelial","HLA-A","APLP2",32.3880825073041
+"PVL","Normal Epithelial","APP","CD74",23.8341467298599
+"PVL","Normal Epithelial","LGALS3","ANXA2",21.511053195597
+"PVL","Normal Epithelial","LAMB2","RPSA",18.0443053475749
+"PVL","Normal Epithelial","COL18A1","ITGB1",16.9463919224305
+"PVL","Normal Epithelial","COL1A2","ITGB1",15.1911163171633
+"PVL","Normal Epithelial","S100A4","ERBB3",14.3300927773193
+"PVL","Normal Epithelial","TIMP3","CD44",12.958826031399
+"PVL","Normal Epithelial","COL1A1","ITGB1",12.9153869791248
+"PVL","Normal Epithelial","COL3A1","ITGB1",11.833471204267
+"PVL","Normal Epithelial","COL6A2","ITGB1",11.4926143244565
+"PVL","Normal Epithelial","COL1A2","CD44",10.4060139224451
+"PVL","Normal Epithelial","CTSD","APP",10.2768858179888
+"PVL","Plasmablasts","MIF","CD74",83.7718266649618
+"PVL","Plasmablasts","B2M","TAP1",82.6791663561884
+"PVL","Plasmablasts","TIMP1","CD63",45.5762978069048
+"PVL","Plasmablasts","APP","CD74",40.9160601466851
+"PVL","Plasmablasts","B2M","LILRB1",15.1719637670158
+"PVL","Plasmablasts","HMGB1","SDC1",10.4310439600994
+"PVL","Plasmablasts","HMGB1","CXCR4",10.0131458370621
+"PVL","Plasmablasts","TIMP3","CD44",8.6605298901115
+"PVL","Plasmablasts","COL1A1","SDC1",8.51590341733934
+"PVL","Plasmablasts","COPA","CD74",8.04783297575205
+"PVL","Plasmablasts","LGALS1","ITGB1",7.82709862071296
+"PVL","Plasmablasts","COL1A2","CD44",6.95445670725801
+"PVL","Plasmablasts","B2M","TAP2",6.89549585577731
+"PVL","Plasmablasts","FN1","SDC1",6.56437826879719
+"PVL","Plasmablasts","LGALS1","CD69",6.25869896192976
+"PVL","Plasmablasts","LGALS1","PTPRC",6.13462594621629
+"PVL","Plasmablasts","LAMB2","RPSA",6.12594788963905
+"PVL","Plasmablasts","COL1A1","CD44",5.91263326068585
+"PVL","Plasmablasts","MIF","CXCR4",4.93425962603192
+"PVL","Plasmablasts","FN1","CD44",4.55767983568091
+"PVL","T-cells","LGALS1","CD69",278.764681478188
+"PVL","T-cells","B2M","KLRD1",229.234889693011
+"PVL","T-cells","B2M","TAP1",207.720521561415
+"PVL","T-cells","HMGB1","CXCR4",197.393623139382
+"PVL","T-cells","LGALS1","PTPRC",167.976069682468
+"PVL","T-cells","B2M","KLRC1",115.684140320069
+"PVL","T-cells","MIF","CXCR4",97.2712672862239
+"PVL","T-cells","HLA-B","CD8A",79.4977969774562
+"PVL","T-cells","MIF","CD74",70.9132040355791
+"PVL","T-cells","HLA-A","CD8A",60.0252851077529
+"PVL","T-cells","TIMP3","CD44",49.4760739744841
+"PVL","T-cells","HLA-B","KLRD1",43.8589771969443
+"PVL","T-cells","TIMP1","CD63",42.8435396765917
+"PVL","T-cells","CD59","CD2",42.1528715992385
+"PVL","T-cells","COL1A2","CD44",39.7295799294579
+"PVL","T-cells","CXCL12","CXCR4",39.4820728356561
+"PVL","T-cells","LGALS1","ITGB1",34.8353750340855
+"PVL","T-cells","APP","CD74",34.6356172119555
+"PVL","T-cells","COL1A1","CD44",33.7778270269236
+"PVL","T-cells","HLA-A","KLRD1",33.1159819627149
+"T-cells","B-cells","MIF","CD74",723.772295134691
+"T-cells","B-cells","B2M","TAP1",269.783589261793
+"T-cells","B-cells","HMGB1","CXCR4",140.850761475847
+"T-cells","B-cells","HLA-DMA","CD74",122.144959575661
+"T-cells","B-cells","COPA","CD74",90.1599853879339
+"T-cells","B-cells","MIF","CXCR4",84.7784221750055
+"T-cells","B-cells","B2M","LILRB1",69.7215689942618
+"T-cells","B-cells","HLA-DRB1","CD37",65.4979776975691
+"T-cells","B-cells","LGALS1","CD69",58.9786471199078
+"T-cells","B-cells","HLA-DRA","CD37",46.7579903034116
+"T-cells","B-cells","B2M","TAP2",35.7332429665249
+"T-cells","B-cells","HLA-DMB","CD74",32.1759421079106
+"T-cells","B-cells","APP","CD74",29.3521179216396
+"T-cells","B-cells","CD82","CD37",27.13879333533
+"T-cells","B-cells","CD2","CD53",24.9503581901159
+"T-cells","B-cells","HLA-A","APLP2",17.8996907969973
+"T-cells","B-cells","HLA-B","LILRB1",16.9181422465691
+"T-cells","B-cells","LGALS1","PTPRC",15.7223155493395
+"T-cells","B-cells","HLA-DRB1","CD53",14.1374585472991
+"T-cells","B-cells","GZMB","MCL1",12.5133297007952
+"T-cells","CAFs","B2M","TAP1",130.345633059676
+"T-cells","CAFs","HLA-DRA","CD63",49.3195938551367
+"T-cells","CAFs","CD99","CD99",47.9634258842732
+"T-cells","CAFs","IFITM1","CD81",39.6321867077041
+"T-cells","CAFs","HLA-A","APLP2",36.8408670388883
+"T-cells","CAFs","CCL5","SDC1",32.1008919762348
+"T-cells","CAFs","B2M","TAP2",31.6328050791117
+"T-cells","CAFs","LGALS1","ITGB1",20.4229321721288
+"T-cells","CAFs","MIF","CD74",16.4693682382539
+"T-cells","CAFs","ITGB2","THY1",15.9982065183477
+"T-cells","CAFs","TIMP1","CD63",15.7625728299817
+"T-cells","CAFs","CALR","LRP1",15.5494771448782
+"T-cells","CAFs","GZMB","MCL1",14.1288354104728
+"T-cells","CAFs","CD99","CD81",13.8048532744035
+"T-cells","CAFs","LGALS3","ANXA2",12.8528698194177
+"T-cells","CAFs","LTB","TNFRSF1A",11.804670500832
+"T-cells","CAFs","HLA-DRB1","CD81",11.5737534669261
+"T-cells","CAFs","HMGB1","SDC1",10.9079506173869
+"T-cells","CAFs","S100A4","EGFR",8.52282968665733
+"T-cells","CAFs","HSP90B1","LRP1",8.38860104732402
+"T-cells","Cancer Epithelial","B2M","TAP1",127.796943403878
+"T-cells","Cancer Epithelial","HLA-A","APLP2",54.6387998789464
+"T-cells","Cancer Epithelial","HLA-A","ERBB2",40.9032746281508
+"T-cells","Cancer Epithelial","CCL5","SDC4",35.026694203603
+"T-cells","Cancer Epithelial","S100A4","ERBB2",21.3831624351842
+"T-cells","Cancer Epithelial","CCL5","SDC1",20.5425912370632
+"T-cells","Cancer Epithelial","B2M","TAP2",18.5582827328583
+"T-cells","Cancer Epithelial","HLA-DRA","CD9",17.9695723308612
+"T-cells","Cancer Epithelial","MIF","CD74",17.5551336610752
+"T-cells","Cancer Epithelial","CD44","EPCAM",15.2736505826238
+"T-cells","Cancer Epithelial","HLA-DRA","CD63",12.9307727749911
+"T-cells","Cancer Epithelial","CD44","CLDN7",12.7855627472978
+"T-cells","Cancer Epithelial","S100A4","ERBB3",11.6586033823957
+"T-cells","Cancer Epithelial","LGALS3","ANXA2",11.0077565452982
+"T-cells","Cancer Epithelial","CD7","ADAM15",9.9886247009926
+"T-cells","Cancer Epithelial","CD99","CD99",9.58730853992009
+"T-cells","Cancer Epithelial","MIF","CD44",8.35425447220512
+"T-cells","Cancer Epithelial","GZMB","MCL1",7.38820703908383
+"T-cells","Cancer Epithelial","HMGB1","SDC1",6.98041571346183
+"T-cells","Cancer Epithelial","IFITM1","CD81",5.7907212047022
+"T-cells","Endothelial","CCL5","ACKR1",509.14461638896
+"T-cells","Endothelial","MIF","CD74",352.530899453181
+"T-cells","Endothelial","B2M","TAP1",261.988454105256
+"T-cells","Endothelial","CXCL13","ACKR1",154.808363284734
+"T-cells","Endothelial","B2M","TAP2",83.4363883349737
+"T-cells","Endothelial","HLA-A","APLP2",73.2287463413533
+"T-cells","Endothelial","HLA-DMA","CD74",59.4936732897008
+"T-cells","Endothelial","COPA","CD74",43.9146136943237
+"T-cells","Endothelial","IFITM1","CD81",38.3505693809549
+"T-cells","Endothelial","CD7","ADAM15",26.9358101514313
+"T-cells","Endothelial","CD99","CD99",22.9967534582038
+"T-cells","Endothelial","HLA-DRA","CD63",20.5292296488848
+"T-cells","Endothelial","HMGB1","THBD",19.7281190796304
+"T-cells","Endothelial","HLA-DMB","CD74",15.6720751654971
+"T-cells","Endothelial","LTB","TNFRSF1A",15.5471103606462
+"T-cells","Endothelial","LGALS1","ITGB1",14.9760466854415
+"T-cells","Endothelial","GZMB","MCL1",14.6110124482657
+"T-cells","Endothelial","APP","CD74",14.2966629164022
+"T-cells","Endothelial","LGALS3","ENG",13.4267974711336
+"T-cells","Endothelial","CD99","CD81",13.3584348297138
+"T-cells","Myeloid","MIF","CD74",901.963839800348
+"T-cells","Myeloid","B2M","TAP1",260.098107050899
+"T-cells","Myeloid","B2M","LILRB1",186.907870314893
+"T-cells","Myeloid","HLA-DMA","CD74",152.216847054942
+"T-cells","Myeloid","RPS19","C5AR1",150.69238043308
+"T-cells","Myeloid","COPA","CD74",112.357225005014
+"T-cells","Myeloid","HLA-A","APLP2",86.2205101267882
+"T-cells","Myeloid","HLA-B","LILRB2",64.4376504573315
+"T-cells","Myeloid","B2M","TAP2",54.7790427341759
+"T-cells","Myeloid","HLA-B","LILRB1",45.3537403504343
+"T-cells","Myeloid","HLA-DMB","CD74",40.0976059569177
+"T-cells","Myeloid","HLA-A","LILRB2",38.8923527160858
+"T-cells","Myeloid","HLA-C","LILRB2",38.7376825746917
+"T-cells","Myeloid","APP","CD74",36.5785609159685
+"T-cells","Myeloid","IFITM1","CD81",35.8577929152938
+"T-cells","Myeloid","HMGB1","CXCR4",32.1959393461839
+"T-cells","Myeloid","HLA-A","LILRB1",27.3739600091544
+"T-cells","Myeloid","HLA-C","LILRB1",27.2650971101665
+"T-cells","Myeloid","HLA-DRA","CD63",26.9700687694072
+"T-cells","Myeloid","GZMB","MCL1",22.806445167939
+"T-cells","Normal Epithelial","B2M","TAP1",104.775587051705
+"T-cells","Normal Epithelial","HLA-A","APLP2",54.7243028981551
+"T-cells","Normal Epithelial","CALM1","MYLK",52.3609682764871
+"T-cells","Normal Epithelial","MIF","CD74",50.1811647927664
+"T-cells","Normal Epithelial","CCL5","SDC4",48.6842173181826
+"T-cells","Normal Epithelial","CALM2","MYLK",33.335385780581
+"T-cells","Normal Epithelial","HLA-DRA","CD9",17.3210975873683
+"T-cells","Normal Epithelial","HLA-DRA","CD63",14.0424785950299
+"T-cells","Normal Epithelial","HLA-A","ERBB2",13.5964878519161
+"T-cells","Normal Epithelial","GZMB","MCL1",13.0861845127445
+"T-cells","Normal Epithelial","CD44","CLDN7",12.5514276105872
+"T-cells","Normal Epithelial","B2M","TAP2",12.0846826728662
+"T-cells","Normal Epithelial","CCL5","SDC1",10.8969074873563
+"T-cells","Normal Epithelial","S100A4","ERBB3",10.8593270844228
+"T-cells","Normal Epithelial","LGALS3","ANXA2",9.8016578745711
+"T-cells","Normal Epithelial","CALM3","MYLK",9.79724086889053
+"T-cells","Normal Epithelial","CD44","EPCAM",9.64564112412676
+"T-cells","Normal Epithelial","HLA-DMA","CD74",8.46865289853542
+"T-cells","Normal Epithelial","CTSD","APP",8.3241340164884
+"T-cells","Normal Epithelial","IFITM1","CD81",7.89880418462681
+"T-cells","Plasmablasts","B2M","TAP1",137.7964311911
+"T-cells","Plasmablasts","MIF","CD74",86.1459644502077
+"T-cells","Plasmablasts","CCL5","SDC1",25.8442533620696
+"T-cells","Plasmablasts","B2M","LILRB1",25.2862063491158
+"T-cells","Plasmablasts","HLA-DMA","CD74",14.5381294864551
+"T-cells","Plasmablasts","B2M","TAP2",11.4923113293826
+"T-cells","Plasmablasts","COPA","CD74",10.7311635831747
+"T-cells","Plasmablasts","HMGB1","SDC1",8.78193165552516
+"T-cells","Plasmablasts","HMGB1","CXCR4",8.43010179367016
+"T-cells","Plasmablasts","GZMB","MCL1",8.07153999963818
+"T-cells","Plasmablasts","HLA-B","CD8A",6.72751913985472
+"T-cells","Plasmablasts","HLA-B","LILRB1",6.13577178571021
+"T-cells","Plasmablasts","CCL5","CXCR3",5.8368103318921
+"T-cells","Plasmablasts","HLA-DRA","CD63",5.29920870577924
+"T-cells","Plasmablasts","MIF","CXCR4",5.07409914830028
+"T-cells","Plasmablasts","HLA-A","CD8A",4.06049949733507
+"T-cells","Plasmablasts","HLA-DMB","CD74",3.82969558742806
+"T-cells","Plasmablasts","HLA-A","LILRB1",3.70334111783397
+"T-cells","Plasmablasts","HLA-C","LILRB1",3.68861338206269
+"T-cells","Plasmablasts","CD99","CD99",3.67890990839561
+"T-cells","PVL","B2M","TAP1",125.853758387135
+"T-cells","PVL","CALM1","MYLK",51.3577488342838
+"T-cells","PVL","HLA-A","APLP2",42.8104029431551
+"T-cells","PVL","B2M","TAP2",41.232706320063
+"T-cells","PVL","IFITM1","CD81",39.0414634401623
+"T-cells","PVL","CALM2","MYLK",32.6966904273585
+"T-cells","PVL","HLA-DRA","CD63",32.2358840160514
+"T-cells","PVL","LGALS1","ITGB1",25.3779409316135
+"T-cells","PVL","CD99","CD99",17.6742227680871
+"T-cells","PVL","CD99","CD81",13.5990900119741
+"T-cells","PVL","GZMB","MCL1",13.19975370356
+"T-cells","PVL","ITGB2","THY1",11.7218187586978
+"T-cells","PVL","HLA-DRB1","CD81",11.4012450581389
+"T-cells","PVL","MIF","CD74",10.8847874875955
+"T-cells","PVL","LTB","TNFRSF1A",10.7643856353216
+"T-cells","PVL","TIMP1","CD63",10.3026085542051
+"T-cells","PVL","CALM3","MYLK",9.60952886043952
+"T-cells","PVL","TGFB1","ITGB1",9.18517180200539
+"T-cells","PVL","CALM1","PDE1A",9.07469727247495
+"T-cells","PVL","MIF","CD44",8.6541754905456
