@@ -189,3 +189,4 @@ Korsunsky I, Millard N, Fan J, et al. Fast, sensitive and accurate integration o
 
 Joseph Imhanbor
 Research assistant- Lagos State University Bioinformatics Lab
+josephimhanbor@gmail.com
