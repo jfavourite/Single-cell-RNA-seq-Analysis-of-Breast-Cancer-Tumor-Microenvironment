@@ -4,8 +4,6 @@
 
 This project presents a complete single-cell RNA-seq (scRNA-seq) analysis pipeline investigating how breast cancer molecular subtypes differ in tumor ecosystem composition and cell-cell communication. Using a landmark 26-tumor dataset, I characterized 93,235 cells across nine major cell populations and identified subtype-specific patterns of immune infiltration, stromal programming, and intercellular signaling.
 
-This work was developed as part of my PhD application portfolio to demonstrate proficiency in large-scale single-cell analysis, tumor microenvironment biology, and computational cancer research.
-
 ---
 
 ## Central Hypothesis
@@ -32,8 +30,8 @@ This work was developed as part of my PhD application portfolio to demonstrate p
 ## Repository Structure
 
 ```
-├── breast_cancer_scrna_pipeline.R   # Complete analysis pipeline
-├── README.md                        # This file
+├── breast_cancer_scrna_pipeline.R   
+├── README.md                        
 ├── figures/
 │   ├── Figure1_global_UMAP.png
 │   ├── Figure1b_UMAP_by_subtype.png
@@ -161,11 +159,9 @@ This work was developed as part of my PhD application portfolio to demonstrate p
 
 ## Computational Notes
 
-**Hardware:** All analyses were run on a local machine with 8GB RAM running R 4.6 on Windows with WSL (Ubuntu 24.04).
+**Hardware:** All analyses were run on a local machine running R 4.6 on Windows with WSL (Ubuntu 24.04).
 
-**Memory management:** SCTransform was evaluated but exceeded memory limits on 8GB RAM. LogNormalize with ScaleData was used as a biologically equivalent alternative at this analysis scale. FindAllMarkers was replaced with a one-cluster-at-a-time loop to prevent memory crashes while producing identical results.
-
-**Trajectory analysis — future direction:** Monocle3 pseudotime trajectory analysis was planned to trace tumor cell state transitions from Proliferative → EMT-like → Stem-like programs. Installation via GitHub and conda was unsuccessful due to package compatibility constraints between Monocle3, igraph 1.3+, and R 4.6. This analysis is identified as the immediate next phase of this project and will be completed on a high-performance computing cluster. The biological question — how tumor cell states transition across subtypes — remains a key open direction.
+**Trajectory analysis — future direction:** Monocle3 pseudotime trajectory analysis.
 
 ---
 
@@ -176,8 +172,6 @@ This work was developed as part of my PhD application portfolio to demonstrate p
 3. Update `data_dir` path in `breast_cancer_scrna_pipeline.R`
 4. Install required packages (installation lines included at top of script)
 5. Run script sections sequentially — each section saves intermediate `.rds` objects so analysis can be resumed without rerunning from scratch
-
-**Estimated runtime:** 3–5 hours on 8GB RAM; 45–90 minutes on 16GB+ RAM
 
 ---
 
@@ -194,4 +188,4 @@ Korsunsky I, Millard N, Fan J, et al. Fast, sensitive and accurate integration o
 ## Contact
 
 Joseph Imhanbor
-PhD Applicant — Computational Cancer Biology
+Research assistant- Lagos State University Bioinformatics Lab
